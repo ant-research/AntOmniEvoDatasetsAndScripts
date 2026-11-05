@@ -1,0 +1,2398 @@
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/bill_split_reconciliation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/guides/generating_base_database_and_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/prompts/plan_execute_code_agent/plan_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+retrieval-test/pipeline_specs/default/nodes/rerank_cross.py
+  h_7a890aca0105ef 1-139
+appworld/experiments/configs/_generator/models/cohere.py
+  s_3c3caa49457c55::t_43147620fc3996 1-28
+appworld/tests/package/test_factories.py
+  s_3c3caa49457c55::t_c0cff33fea5d8f 1-13
+appworld/experiments/prompts/api_predictor.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+appworld/appworld_agents/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/accept_reject_requests.md
+  s_3c3caa49457c55::t_43147620fc3996 1-23
+appworld/src/appworld/common/crypto.py
+  s_3c3caa49457c55::t_0687e30607112e 1-318
+appworld/experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/people_references.md
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/_generator/templates/smolagents_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-96
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/reply_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-45
+appworld/experiments/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/generate-gates-circuit.py
+  h_7a890aca0105ef 1-259
+appworld/appworld_agents/run_all_glm5.py
+  s_3c3caa49457c55::t_43147620fc3996 1-279
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/gcode-coordinate-analysis.md
+  h_7a890aca0105ef 1-102
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-85
+appworld/experiments/code/smolagents/agents.py
+  s_3c3caa49457c55::t_43147620fc3996 1-31
+appworld/experiments/configs/ci/full_code_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/src/appworld/environment.py
+  s_3c3caa49457c55::t_2c4938e4ae0886 1-1413
+retrieval-test/pipeline_specs/7414db43f57a/prompt/rewrite.md
+  h_7a890aca0105ef 1-627
+terminal-bench/patches/harbor-0.20.0-tmux-timeout.patch
+  h_7a890aca0105ef 1-11
+appworld/appworld_agents/code/legacy/plain/agents/agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-149
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/gcode-extract-text.py
+  h_7a890aca0105ef 1-363
+appworld/experiments/configs/_generator/models/meta.py
+  s_3c3caa49457c55::t_43147620fc3996 1-52
+appworld/experiments/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-50
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-52
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+retrieval-test/pipeline_specs/10f675e808b9/nodes/truncate.py
+  h_7a890aca0105ef 1-38
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+terminal-bench/artifacts/1a5bf0805ec0/agent/kira_agent.py
+  h_7a890aca0105ef 1-3763
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/now_playing_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/src/appworld/common/errors.py
+  s_3c3caa49457c55::t_3844e167cdfbd6 1-143
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/keyed_entries.py
+  s_3c3caa49457c55::t_43147620fc3996 1-88
+appworld/scripts/print_experiment_usage.py
+  s_3c3caa49457c55::t_43147620fc3996 1-18
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/README.md
+  s_3c3caa49457c55::t_43147620fc3996 1-1663
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/code/simplified/trajectory.py
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/code/openai_agents/language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-54
+retrieval-test/tools/run_pi.py
+  h_7a890aca0105ef 1-72
+appworld/src/appworld/apps/lib/models/users.py
+  s_3c3caa49457c55::t_43147620fc3996 1-41
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/tests/package/common/test_io.py
+  s_3c3caa49457c55::t_ea0c0414847d88 1-33
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/data_splits/val_test_challenge_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-100
+appworld/experiments/prompts/plan_execute_code_agent/execute_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-591
+appworld/experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_function_calling_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/src/appworld/common/imports.py
+  s_3c3caa49457c55::t_188bdbbfd9a236 1-92
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-340
+appworld/appworld_agents/code/simplified/language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-849
+appworld/generate/code/task_generator_docstring.py
+  s_3c3caa49457c55::t_43147620fc3996 1-125
+appworld/scripts/bundle.py
+  s_3c3caa49457c55::t_43147620fc3996 1-136
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_aggregation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/configs/_generator/templates/simplified_react_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-105
+appworld/src/appworld/apps/lib/models/filter_sort.py
+  s_3c3caa49457c55::t_43147620fc3996 1-306
+appworld/scripts/rename_prompts_in_configs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-52
+appworld/experiments/code/hal/main.py
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+terminal-bench/src/tbtest/trajectory.py
+  h_7a890aca0105ef 1-69
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/differential-cryptanalysis.md
+  h_7a890aca0105ef 1-261
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-340
+retrieval-test/.gitignore
+  h_7a890aca0105ef 1-23
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/code/legacy/plain/language_models/openai_language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-547
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/scripts/spot_check_experiment_logs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-313
+appworld/scripts/update_experiment_options_readme.py
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+appworld/experiments/configs/_generator/templates/simplified_pi_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-53
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/scripts/release_data.py
+  s_3c3caa49457c55::t_43147620fc3996 1-327
+appworld/src/appworld/common/path_store.py
+  s_3c3caa49457c55::t_df19af2c4bc3f1 1-95
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-relu-weights.py
+  h_7a890aca0105ef 1-205
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/git-leak-verify.sh
+  h_7a890aca0105ef 1-97
+appworld/experiments/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/_generator/models/alibaba.py
+  s_3c3caa49457c55::t_43147620fc3996 1-279
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/code/simplified/agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-157
+appworld/appworld_agents/prompts/full_code_agent/reflexion_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1
+appworld/src/appworld/apps/lib/responses/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-77
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/generate/images/lib.py
+  s_3c3caa49457c55::t_43147620fc3996 1-86
+appworld/guides/developing_new_task_generators.md
+  s_3c3caa49457c55::t_43147620fc3996 1-1190
+appworld/tests/experiments/patches/v0.1.0.patch
+  s_3c3caa49457c55::t_1d1e65a2cb36e5 1-58
+appworld/appworld_agents/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/src/appworld/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-66
+appworld/appworld_agents/run_full_test.py
+  s_3c3caa49457c55::t_43147620fc3996 1-158
+appworld/appworld_agents/prompts/plan_execute_code_agent/execute_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-591
+appworld/experiments/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-71
+appworld/experiments/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/prompts/skill_react_code_agent/skill/references/api-discovery.md
+  s_3c3caa49457c55::t_43147620fc3996 1-34
+appworld/src/appworld/collections/apis.pyi
+  s_3c3caa49457c55::t_773b981aec967b 1-3049
+appworld/appworld_agents/data_splits/val_test_normal_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-100
+appworld/tests/package/common/test_collections.py
+  s_3c3caa49457c55::t_4e3f9a3c6f6a57 1-252
+retrieval-test/README.md
+  h_7a890aca0105ef 1-172
+appworld/experiments/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/prompts/skill_react_code_agent/skill2/references/question_patterns.md
+  s_3c3caa49457c55::t_43147620fc3996 1-112
+appworld/experiments/prompts/react_code_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-343
+appworld/appworld_agents/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/code/openai_agents/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-309
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/code/simplified/agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-157
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/docs/datasets.md
+  h_7a890aca0105ef 1-34
+appworld/src/appworld/common/system.py
+  s_3c3caa49457c55::t_a1dd931336a36f 1-194
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-116
+appworld/appworld_agents/configs/_generator/models/zai.py
+  s_3c3caa49457c55::t_43147620fc3996 1-78
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/run_full.py
+  s_3c3caa49457c55::t_43147620fc3996 1-315
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_library_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-78
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+retrieval-test/pipeline_specs/default/nodes/truncate.py
+  h_7a890aca0105ef 1-38
+appworld/src/appworld/cli.py
+  s_3c3caa49457c55::t_43147620fc3996 1-2367
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/appworld_agents/code/legacy/plain/agents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-8
+appworld/experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/code/common/vllm_plugins/xlam_tool_call_parser.py
+  s_3c3caa49457c55::t_43147620fc3996 1-203
+appworld/appworld_agents/code/common/vllm_plugins/xlam_tool_call_parser.py
+  s_3c3caa49457c55::t_43147620fc3996 1-203
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/list_tasks.py
+  s_3c3caa49457c55::t_43147620fc3996 1-88
+appworld/.private.gitignore
+  s_3c3caa49457c55::t_43147620fc3996 1-123
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/.gitignore
+  s_3c3caa49457c55::t_43147620fc3996 1-135
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/appworld_agents/configs/_generator/templates/openai_agents_mcp_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-122
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/code/hal/requirements.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-2
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/src/appworld/serve/apis.py
+  s_3c3caa49457c55::t_a5405795285365 1-73
+appworld/appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/experiments/configs/_generator/models/misc.py
+  s_3c3caa49457c55::t_43147620fc3996 1-84
+appworld/tests/experiments/patches/v0.1.1.patch
+  s_3c3caa49457c55::t_b1972aa93f7ff5 1-58
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/document_content_editing.md
+  s_3c3caa49457c55::t_43147620fc3996 1-23
+appworld/src/appworld/collections/models.pyi
+  s_3c3caa49457c55::t_ff65e50fca19ee 1-204
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/tests/package/test_load_task_ids.py
+  s_3c3caa49457c55::t_f01bf0e19db4ed 1-75
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/rating_review_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-22
+appworld/appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/code/smolagents/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-65
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_player_queue.md
+  s_3c3caa49457c55::t_43147620fc3996 1-26
+appworld/appworld_agents/configs/_generator/agents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-82
+appworld/experiments/code/legacy/recoma/appworld_reader.py
+  s_3c3caa49457c55::t_43147620fc3996 1-65
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/.github/workflows/ci.yml
+  s_3c3caa49457c55::t_43147620fc3996 1-172
+appworld/appworld_agents/configs/_generator/templates/simplified_full_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-116
+appworld/experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/pytest.ini
+  s_3c3caa49457c55::t_43147620fc3996 1-10
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/prompts/skill_react_code_agent/skill2/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-160
+appworld/scripts/score_by_interaction_limits.py
+  s_3c3caa49457c55::t_43147620fc3996 1-132
+appworld/tasks/task.md
+  s_3c3caa49457c55::t_4fcf5fd46207a1 1-22
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-function-sigs.sh
+  h_7a890aca0105ef 1-48
+appworld/experiments/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/payment_cards.py
+  s_3c3caa49457c55::t_43147620fc3996 1-81
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/README.pypi.md
+  s_3c3caa49457c55::t_43147620fc3996 1-5
+appworld/experiments/configs/_generator/models/google.py
+  s_3c3caa49457c55::t_43147620fc3996 1-485
+appworld/experiments/prompts/smolagents/code_instructions.yaml
+  s_3c3caa49457c55::t_43147620fc3996 1-208
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+retrieval-test/src/retrieval_test/llm_client.py
+  h_7a890aca0105ef 1-222
+appworld/experiments/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/_generator/templates/smolagents_tool_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-102
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-pdf-text.py
+  h_7a890aca0105ef 1-205
+appworld/src/appworld/common/hashing.py
+  s_3c3caa49457c55::t_9b83511b5fe9d2 1-48
+appworld/appworld_agents/code/common/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-140
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/guides/evaluating_terminal_agents.md
+  s_3c3caa49457c55::t_43147620fc3996 1-199
+appworld/appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/tests/package/test_responses.py
+  s_3c3caa49457c55::t_c9ba08ee212d3f 1-41
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/data_splits/test_challenge_all_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-417
+appworld/experiments/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/.dockerignore
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/html-surgical-modification.md
+  h_7a890aca0105ef 1-302
+terminal-bench/artifacts/kira/agent/kira_agent.py
+  h_7a890aca0105ef 1-1327
+appworld/generate/code/response_docstrings.py
+  s_3c3caa49457c55::t_43147620fc3996 1-78
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+retrieval-test/datasets/README.md
+  h_7a890aca0105ef 1-66
+appworld/tests/package/test_model_relationships.py
+  s_3c3caa49457c55::t_fea3407d6b7503 1-105
+appworld/appworld_agents/eval_batch.py
+  s_3c3caa49457c55::t_43147620fc3996 1-488
+appworld/src/appworld/api_docs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-737
+appworld/experiments/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-50
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/search_pattern.md
+  s_3c3caa49457c55::t_43147620fc3996 1-721
+appworld/src/appworld/ground_truth.py
+  s_3c3caa49457c55::t_fe19d5d2bc10b1 1-502
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/data_splits/val_test_challenge_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-100
+appworld/experiments/data_splits/test_normal_all_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-168
+appworld/appworld_agents/code/legacy/recoma/plan_and_execute.py
+  s_3c3caa49457c55::t_43147620fc3996 1-111
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/_generator/templates/simplified_function_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-127
+appworld/.gitattributes
+  s_3c3caa49457c55::t_43147620fc3996 1-2
+appworld/appworld_agents/configs/_generator/templates/simplified_pi_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-53
+appworld/experiments/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/dates.py
+  s_3c3caa49457c55::t_43147620fc3996 1-40
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/src/appworld/collections/apis.py
+  s_3c3caa49457c55::t_84ef847f0c6db3 1-211
+appworld/experiments/configs/_generator/models/zai.py
+  s_3c3caa49457c55::t_43147620fc3996 1-78
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/code/legacy/plain/language_models/language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-11
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/complete_task.md
+  s_3c3caa49457c55::t_43147620fc3996 1-92
+appworld/tests/experiments/test_usage_tracker.py
+  s_3c3caa49457c55::t_f12019bc1a71b8 1-947
+retrieval-test/datasets/corpus.jsonl
+  h_7a890aca0105ef 1-5
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/code/legacy/plain/agents/function_calling_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-294
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/payment_cards.py
+  s_3c3caa49457c55::t_43147620fc3996 1-81
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/distributed-parallel-patterns.md
+  h_7a890aca0105ef 1-127
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/create_data_split.py
+  s_3c3caa49457c55::t_43147620fc3996 1-243
+appworld/appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/experiments/code/simplified/language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-849
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/src/retrieval_test/errors.py
+  h_7a890aca0105ef 1-21
+appworld/appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/configs/_generator/models/baidu.py
+  s_3c3caa49457c55::t_43147620fc3996 1-43
+retrieval-test/pipeline_specs/7414db43f57a/nodes/recall_dense.py
+  h_7a890aca0105ef 1-226
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+retrieval-test/pipeline_specs/10f675e808b9/nodes/recall_bm25.py
+  h_7a890aca0105ef 1-233
+appworld/appworld_agents/code/smolagents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-3
+appworld/src/appworld/serve/_mcp.py
+  s_3c3caa49457c55::t_cbabf725aa4936 1-465
+appworld/experiments/code/openai_agents/language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-54
+appworld/experiments/prompts/full_code_agent/reflexion_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1
+appworld/experiments/run_all_glm5.py
+  s_3c3caa49457c55::t_43147620fc3996 1-279
+appworld/experiments/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/scripts/migrate_data.py
+  s_3c3caa49457c55::t_43147620fc3996 1-386
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/.github/workflows/links-check.yml
+  s_3c3caa49457c55::t_43147620fc3996 1-27
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/code/legacy/recoma/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-113
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/code/legacy/plain/language_models/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-7
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/README.md
+  h_7a890aca0105ef 1-33
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/prompts/skill_react_code_agent/skill2/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/code/openai_agents/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-40
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/src/appworld/.source/tests.bundle
+  s_3c3caa49457c55::t_b81e58b3e869fb 1-3
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+retrieval-test/src/retrieval_test/__init__.py
+  h_7a890aca0105ef 1-10
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/code/simplified/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-18
+appworld/scripts/call_mcp_server.py
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/appworld_agents/configs/_generator/models/nvidia.py
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/_generator/models/salesforce.py
+  s_3c3caa49457c55::t_43147620fc3996 1-90
+appworld/experiments/configs/_generator/models/longcat.py
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/code/legacy/plain/language_models/openai_language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-547
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_selection.md
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/src/appworld/common/types.py
+  s_3c3caa49457c55::t_8226d9b95ded31 1-130
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+retrieval-test/tools/prepare_nfcorpus.py
+  h_7a890aca0105ef 1-117
+retrieval-test/pipeline_specs/10f675e808b9/nodes/query_rewrite.py
+  h_7a890aca0105ef 1-339
+appworld/experiments/configs/_generator/models/nous_research.py
+  s_3c3caa49457c55::t_43147620fc3996 1-43
+appworld/appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/_generator/models/deepseek.py
+  s_3c3caa49457c55::t_43147620fc3996 1-132
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/appworld_agents/configs/_generator/models/misc.py
+  s_3c3caa49457c55::t_43147620fc3996 1-84
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-relu-weights.py.broken-20260723
+  h_7a890aca0105ef 1-233
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/code/common/vllm_plugins/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-16
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+retrieval-test/pipeline_specs/default/nodes/recall_dense.py
+  h_7a890aca0105ef 1-180
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-50
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/send_money_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-62
+appworld/tests/package/common/test_system.py
+  s_3c3caa49457c55::t_8d9a9c9f705d26 1-30
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_player_queue.md
+  s_3c3caa49457c55::t_43147620fc3996 1-26
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/src/appworld/collections/api_docs.py
+  s_3c3caa49457c55::t_864677325f8ac9 1-368
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_collection_assembly.md
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+appworld/experiments/pyproject.toml
+  s_3c3caa49457c55::t_43147620fc3996 1-118
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/code/smolagents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-3
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/datasets/queries.jsonl
+  h_7a890aca0105ef 1-3
+appworld/experiments/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+retrieval-test/src/retrieval_test/spec_info.py
+  h_7a890aca0105ef 1-28
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/search_pattern.md
+  s_3c3caa49457c55::t_43147620fc3996 1-721
+appworld/appworld_agents/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/crack-7z-archive.py
+  h_7a890aca0105ef 1-344
+appworld/appworld_agents/run_full.py
+  s_3c3caa49457c55::t_43147620fc3996 1-315
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/prompts/skill_react_code_agent/skill2/references/file_system.md
+  s_3c3caa49457c55::t_43147620fc3996 1-122
+appworld/experiments/code/openai_agents/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-40
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/pipeline_specs/7414db43f57a/pipeline.json
+  h_7a890aca0105ef 1-73
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/data_splits/train_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-147
+appworld/generate/code/factories.py
+  s_3c3caa49457c55::t_43147620fc3996 1-145
+appworld/experiments/configs/_generator/models/anthropic.py
+  s_3c3caa49457c55::t_43147620fc3996 1-577
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/tests/lib.py
+  s_3c3caa49457c55::t_d912923d652f5a 1-1437
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/tests/package/common/test_code_parsing.py
+  s_3c3caa49457c55::t_05d4bb415ee59f 1-529
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/distribution-optimization.md
+  h_7a890aca0105ef 1-53
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/pipeline_specs/10f675e808b9/nodes/recall_dense.py
+  h_7a890aca0105ef 1-224
+appworld/experiments/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/code/simplified/react_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-208
+appworld/experiments/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/scripts/play_with.py
+  s_3c3caa49457c55::t_43147620fc3996 1-103
+appworld/tests/package/common/test_evaluation.py
+  s_3c3caa49457c55::t_794e4764619b6a 1-154
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/inspect.py
+  s_3c3caa49457c55::t_43147620fc3996 1-103
+appworld/experiments/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/code/legacy/plain/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-93
+appworld/appworld_agents/configs/_generator/models/deepseek.py
+  s_3c3caa49457c55::t_43147620fc3996 1-132
+retrieval-test/pipeline_specs/default/pipeline.json
+  h_7a890aca0105ef 1-48
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-85
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/equal_share_receipt_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-27
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/src/appworld/common/collections.py
+  s_3c3caa49457c55::t_e19805ef3a8880 1-632
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/record_disambiguation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-18
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/_generator/models/moonshot.py
+  s_3c3caa49457c55::t_43147620fc3996 1-53
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/neural-network-extraction.md
+  h_7a890aca0105ef 1-56
+appworld/experiments/prompts/skill_react_code_agent/skill2/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-91
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-71
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/vm-emulator-implementation.md
+  h_7a890aca0105ef 1-235
+appworld/experiments/code/legacy/plain/agents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-8
+retrieval-test/pipeline_specs/10f675e808b9/nodes/graph_expand.py
+  h_7a890aca0105ef 1-199
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/time_arithmetic.md
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+appworld/experiments/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/test/job-config-kira.yaml
+  h_7a890aca0105ef 1-143
+appworld/appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/code/common/vllm_plugins/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-16
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/create_base_task.py
+  s_3c3caa49457c55::t_43147620fc3996 1-112
+appworld/experiments/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-116
+appworld/src/appworld/requester.py
+  s_3c3caa49457c55::t_5a31ab89ba063d 1-954
+appworld/experiments/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/eval_results.py
+  s_3c3caa49457c55::t_43147620fc3996 1-195
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/pyrightconfig.json
+  s_3c3caa49457c55::t_43147620fc3996 1-4
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/common/code_tools.py
+  s_3c3caa49457c55::t_9db65e09dfefa9 1-160
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/data_splits/val_all_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-200
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/tests/package/common/test_database.py
+  s_3c3caa49457c55::t_e55a4b243c81ab 1-9
+retrieval-test/pipeline_specs/default/nodes/recall_bm25.py
+  h_7a890aca0105ef 1-158
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+retrieval-test/tools/run_test.py
+  h_7a890aca0105ef 1-67
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/prompts/skill_react_code_agent/skill/references/workflows.md
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/configs/_generator/models/openai.py
+  s_3c3caa49457c55::t_43147620fc3996 1-693
+appworld/notebooks/interactive_shell.ipynb
+  s_3c3caa49457c55::t_43147620fc3996 1-73
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-54
+appworld/experiments/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/account_check.py
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/scripts/release_experiment_outputs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-193
+appworld/appworld_agents/prompts/react_code_agent/instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-371
+appworld/experiments/data_splits/val_all_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-200
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/scripts/rename_configs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-35
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/generate/tasks/auto_review_task_generator.py
+  s_3c3caa49457c55::t_43147620fc3996 1-298
+appworld/experiments/configs/_generator/models/xai.py
+  s_3c3caa49457c55::t_43147620fc3996 1-99
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_selection.md
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-264
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/prompts/skill_react_code_agent/skill/references/api-discovery.md
+  s_3c3caa49457c55::t_43147620fc3996 1-34
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/reimbursement.py
+  s_3c3caa49457c55::t_43147620fc3996 1-79
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+retrieval-test/src/retrieval_test/spec_loader.py
+  h_7a890aca0105ef 1-648
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/experiments/configs/simplified_react_code_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/_generator/models/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-242
+appworld/scripts/run_beaker.py
+  s_3c3caa49457c55::t_43147620fc3996 1-789
+appworld/appworld_agents/code/legacy/recoma/singleton_appworld.py
+  s_3c3caa49457c55::t_43147620fc3996 1-19
+appworld/appworld_agents/README.md
+  s_3c3caa49457c55::t_43147620fc3996 1-5
+appworld/tests/package/test_model_collection.py
+  s_3c3caa49457c55::t_3e7630624e580b 1-53
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/reimbursement.py
+  s_3c3caa49457c55::t_43147620fc3996 1-79
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/generate/code/solution_transformation.py
+  s_3c3caa49457c55::t_43147620fc3996 1-1344
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/serve/playground.html
+  s_3c3caa49457c55::t_7b809a6545d84b 1-761
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/rating_review_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-22
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/eval_results.py
+  s_3c3caa49457c55::t_43147620fc3996 1-195
+appworld/src/appworld/common/database.py
+  s_3c3caa49457c55::t_449c6c91be8933 1-58
+appworld/experiments/prompts/function_calling_agent/demos.json
+  s_3c3caa49457c55::t_43147620fc3996 1-301
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/code/simplified/react_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-208
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/polyglot-source-files.md
+  h_7a890aca0105ef 1-107
+appworld/tests/package/common/test_crypto.py
+  s_3c3caa49457c55::t_23be3c3fcec214 1-148
+appworld/experiments/code/common/usage_tracker.py
+  s_3c3caa49457c55::t_43147620fc3996 1-328
+retrieval-test/pipeline_specs/10f675e808b9/nodes/graph_rescore.py
+  h_7a890aca0105ef 1-930
+appworld/appworld_agents/prompts/full_code_agent/full_code_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-94
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+retrieval-test/datasets/musique/test/queries.jsonl
+  h_7a890aca0105ef 1-300
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/scripts/legacy_to_simplified_configs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-332
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/DEVELOPMENT.md
+  s_3c3caa49457c55::t_43147620fc3996 1-211
+appworld/experiments/code/common/vllm_plugins/nemotron_toolcall_parser.py
+  s_3c3caa49457c55::t_43147620fc3996 1-106
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/pipeline_specs/10f675e808b9/pipeline.json
+  h_7a890aca0105ef 1-82
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/experiments/code/simplified/skill_react_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-294
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/src/appworld/py.typed
+  s_3c3caa49457c55::t_82e5fea9206784 1
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/app_aggregation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-26
+appworld/experiments/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/ci/pi_code_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/qemu-serial-interaction.md
+  h_7a890aca0105ef 1-238
+appworld/.pre-commit-config.yaml
+  s_3c3caa49457c55::t_43147620fc3996 1-10
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/logic-gate-circuit-design.md
+  h_7a890aca0105ef 1-183
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/now_playing_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/tests/package/common/test_background_server.py
+  s_3c3caa49457c55::t_c189ee38b012e0 1-357
+appworld/scripts/pack_source_bundles.py
+  s_3c3caa49457c55::t_43147620fc3996 1-79
+appworld/appworld_agents/.env.template
+  s_3c3caa49457c55::t_43147620fc3996 1-12
+appworld/experiments/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/code/legacy/plain/agents/lm_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-132
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/common/background_server.py
+  s_3c3caa49457c55::t_8652225b0a51f9 1-295
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/images/banner-light.svg
+  s_3c3caa49457c55::t_43147620fc3996 1-3
+appworld/src/appworld/apps/lib/apis/authentication.py
+  s_3c3caa49457c55::t_43147620fc3996 1-631
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/credentials.md
+  s_3c3caa49457c55::t_43147620fc3996 1-100
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/send_money_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-62
+appworld/src/appworld/common/naming.py
+  s_3c3caa49457c55::t_312117ad5bef34 1-36
+terminal-bench/src/tbtest/evaluate.py
+  h_7a890aca0105ef 1-438
+retrieval-test/datasets/musique/val/corpus.jsonl
+  h_7a890aca0105ef 1-2000
+terminal-bench/artifacts/kira/agent/prompt-templates/terminus-kira.txt
+  h_7a890aca0105ef 1-41
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/MANIFEST.in
+  s_3c3caa49457c55::t_43147620fc3996 1-12
+appworld/appworld_agents/configs/_generator/models/salesforce.py
+  s_3c3caa49457c55::t_43147620fc3996 1-90
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/src/appworld/common/utils.py
+  s_3c3caa49457c55::t_99a6457f34a920 1-34
+appworld/appworld_agents/code/openai_agents/mcp.py
+  s_3c3caa49457c55::t_43147620fc3996 1-110
+appworld/appworld_agents/configs/simplified_react_code_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_rename_move_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-30
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/html-sanitizer.py
+  h_7a890aca0105ef 1-238
+appworld/appworld_agents/prompts/skill_react_code_agent/only-skillmd/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-161
+appworld/appworld_agents/configs/smolagents_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/prompts/skill_react_code_agent/skill/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/cli/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+appworld/appworld_agents/configs/ci/pi_code_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/code/smolagents/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-65
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/refund_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+retrieval-test/src/pi/models.json
+  h_7a890aca0105ef 1-35
+appworld/experiments/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/_generator/templates/simplified_react_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-105
+appworld/appworld_agents/configs/_generator/models/nous_research.py
+  s_3c3caa49457c55::t_43147620fc3996 1-43
+appworld/appworld_agents/code/legacy/recoma/appworld_reader.py
+  s_3c3caa49457c55::t_43147620fc3996 1-65
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-71
+appworld/generate/code/app_design.py
+  s_3c3caa49457c55::t_43147620fc3996 1-184
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+retrieval-test/datasets/musique/train/corpus.jsonl
+  h_7a890aca0105ef 1-6000
+LEGAL.md
+  h_7a890aca0105ef 1-7
+appworld/tests/package/common/test_misc.py
+  s_3c3caa49457c55::t_8b0db1608656ad 1-60
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/smolagents/tool_calling_instructions.yaml
+  s_3c3caa49457c55::t_43147620fc3996 1-186
+README.md
+  h_7a890aca0105ef 1-78
+appworld/appworld_agents/configs/_generator/models/meta.py
+  s_3c3caa49457c55::t_43147620fc3996 1-52
+appworld/src/appworld/evaluator.py
+  s_3c3caa49457c55::t_bfb485edc8c09d 1-645
+appworld/appworld_agents/code/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-12
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/asyncio-cancellation.md
+  h_7a890aca0105ef 1-148
+appworld/experiments/prompts/skill_react_code_agent/skill2/references/question_patterns.md
+  s_3c3caa49457c55::t_43147620fc3996 1-112
+appworld/appworld_agents/configs/ci/full_code_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/complete_task.md
+  s_3c3caa49457c55::t_43147620fc3996 1-92
+appworld/appworld_agents/prompts/react_code_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-343
+appworld/experiments/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/tests/package/test_sqlite_fts.py
+  s_3c3caa49457c55::t_ccd1d6fc1f83cc 1-175
+appworld/src/appworld/leaderboard.py
+  s_3c3caa49457c55::t_117c19c1d84a1c 1-311
+appworld/appworld_agents/configs/_generator/models/cohere.py
+  s_3c3caa49457c55::t_43147620fc3996 1-28
+appworld/appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/prompts/skill_react_code_agent/skill/references/action-verification.md
+  s_3c3caa49457c55::t_43147620fc3996 1-54
+terminal-bench/artifacts/1a5bf0805ec0/skill/SKILL.md
+  h_7a890aca0105ef 1-210
+appworld/appworld_agents/code/legacy/recoma/appworld_prompted_lm.py
+  s_3c3caa49457c55::t_43147620fc3996 1-71
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/tests/package/common/test_prompts.py
+  s_3c3caa49457c55::t_c6916ff0c66e7c 1-148
+appworld/experiments/code/simplified/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/src/appworld/common/copy.py
+  s_3c3caa49457c55::t_9c9889915959f2 1-11
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/generate/.source/tasks.bundle
+  s_3c3caa49457c55::t_287de6427e0810 1-3
+appworld/experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/src/appworld/common/text.py
+  s_3c3caa49457c55::t_60206da942f97b 1-122
+appworld/appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/code/legacy/recoma/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-113
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_export_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-84
+appworld/appworld_agents/code/legacy/plain/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-93
+retrieval-test/pipeline_specs/7414db43f57a/nodes/recall_bm25.py
+  h_7a890aca0105ef 1-158
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/scripts/show_api_test_code.py
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/appworld_agents/code/common/usage_tracker.py
+  s_3c3caa49457c55::t_43147620fc3996 1-328
+appworld/experiments/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+retrieval-test/src/retrieval_test/generate.py
+  h_7a890aca0105ef 1-556
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/git-server-deployment.md
+  h_7a890aca0105ef 1-153
+appworld/appworld_agents/MANIFEST.in
+  s_3c3caa49457c55::t_43147620fc3996 1-12
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/scripts/generate_mcp_config.py
+  s_3c3caa49457c55::t_43147620fc3996 1-85
+appworld/guides/parallelizing_worlds.md
+  s_3c3caa49457c55::t_43147620fc3996 1-500
+terminal-bench/pyproject.toml
+  h_7a890aca0105ef 1-17
+appworld/experiments/configs/_generator/models/alibaba.py
+  s_3c3caa49457c55::t_43147620fc3996 1-279
+appworld/experiments/code/hal/requirements.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-2
+appworld/appworld_agents/code/simplified/full_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-211
+appworld/src/appworld/apps/lib/apis/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/code/smolagents/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-321
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/accept_reject_requests.md
+  s_3c3caa49457c55::t_43147620fc3996 1-23
+appworld/experiments/code/common/tool_parsers.py
+  s_3c3caa49457c55::t_43147620fc3996 1-115
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-71
+appworld/scripts/plot_scores_by_distribution.py
+  s_3c3caa49457c55::t_43147620fc3996 1-225
+appworld/appworld_agents/prompts/smolagents/tool_calling_instructions.yaml
+  s_3c3caa49457c55::t_43147620fc3996 1-186
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/search-filtered.sh
+  h_7a890aca0105ef 1-73
+appworld/src/appworld/common/inspect.py
+  s_3c3caa49457c55::t_e63b4c49f9593d 1-218
+appworld/guides/developing_new_apps.md
+  s_3c3caa49457c55::t_43147620fc3996 1-1429
+appworld/appworld_agents/code/legacy/recoma/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-11
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/prompts/skill_react_code_agent/skill2/scripts/helpers.py
+  s_3c3caa49457c55::t_43147620fc3996 1-76
+appworld/experiments/prompts/react_code_agent/instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-371
+appworld/src/appworld/common/random.py
+  s_3c3caa49457c55::t_719df16ee75ac8 1-248
+appworld/appworld_agents/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/src/appworld/common/finders.py
+  s_3c3caa49457c55::t_035e8f2a8c7962 1-1166
+appworld/appworld_agents/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-54
+appworld/src/appworld/apps/lib/factories/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-64
+appworld/experiments/prompts/skill_react_code_agent/skill2/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-79
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/generate/code/tutorial.py
+  s_3c3caa49457c55::t_43147620fc3996 1-1712
+appworld/tests/experiments/run.sh
+  s_3c3caa49457c55::t_d5f4eda581c0ac 1-76
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/scripts/run_via_hal.py
+  s_3c3caa49457c55::t_43147620fc3996 1-193
+appworld/appworld_agents/prompts/function_calling_agent/instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/skill/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/print_model_relationships.py
+  s_3c3caa49457c55::t_43147620fc3996 1-123
+appworld/src/appworld/serve/uis.py
+  s_3c3caa49457c55::t_0f8e0175f0669f 1-66
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/recommendation_feed_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-45
+appworld/src/appworld/apps/lib/apis/datetime.py
+  s_3c3caa49457c55::t_43147620fc3996 1-65
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/pagination.md
+  s_3c3caa49457c55::t_43147620fc3996 1-264
+terminal-bench/src/tbtest/__init__.py
+  h_7a890aca0105ef 1
+appworld/appworld_agents/code/smolagents/task_completer.py
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/git-forensics.md
+  h_7a890aca0105ef 1-50
+appworld/scripts/update_hal_leaderboard.py
+  s_3c3caa49457c55::t_43147620fc3996 1-46
+appworld/experiments/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_library_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-78
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+retrieval-test/src/retrieval_test/node_io.py
+  h_7a890aca0105ef 1-56
+appworld/experiments/code/legacy/recoma/singleton_appworld.py
+  s_3c3caa49457c55::t_43147620fc3996 1-19
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/binary-reverse-engineering.md
+  h_7a890aca0105ef 1-148
+appworld/appworld_agents/prompts/skill_react_code_agent/skill/references/action-verification.md
+  s_3c3caa49457c55::t_43147620fc3996 1-54
+appworld/experiments/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/pyproject.toml
+  s_3c3caa49457c55::t_43147620fc3996 1-118
+appworld/experiments/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/code/simplified/pi_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-677
+appworld/generate/code/type_hints.py
+  s_3c3caa49457c55::t_43147620fc3996 1-402
+appworld/experiments/run_batch.py
+  s_3c3caa49457c55::t_43147620fc3996 1-556
+appworld/experiments/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+terminal-bench/artifacts/kira/skill/SKILL.md
+  h_7a890aca0105ef 1-4
+appworld/tests/package/common/test_datetime.py
+  s_3c3caa49457c55::t_091b00104dbc78 1-60
+appworld/appworld_agents/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/generate/images/all.py
+  s_3c3caa49457c55::t_43147620fc3996 1-119
+terminal-bench/src/tbtest/io_utils.py
+  h_7a890aca0105ef 1-36
+appworld/experiments/prompts/skill_react_code_agent/only-skillmd/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-161
+appworld/scripts/appworld_to_hal_leaderboard.py
+  s_3c3caa49457c55::t_43147620fc3996 1-246
+terminal-bench/artifacts/1a5bf0805ec0/agent/prompt-templates/terminus-kira.txt
+  h_7a890aca0105ef 1-17
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/multi_criteria_filtering.md
+  s_3c3caa49457c55::t_43147620fc3996 1-81
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/code/legacy/plain/agents/full_code_reflexion_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-349
+appworld/experiments/code/openai_agents/mcp.py
+  s_3c3caa49457c55::t_43147620fc3996 1-110
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/reply_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-45
+appworld/.github/workflows/run-and-eval.yml
+  s_3c3caa49457c55::t_43147620fc3996 1-116
+appworld/appworld_agents/configs/_generator/templates/simplified_function_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-127
+appworld/appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/prompts/skill_react_code_agent/skill2/scripts/helpers.py
+  s_3c3caa49457c55::t_43147620fc3996 1-76
+appworld/experiments/code/common/utils.py
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/experiments/code/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-12
+appworld/experiments/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/archive-hash-cracking.md
+  h_7a890aca0105ef 1-143
+appworld/experiments/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+retrieval-test/pyproject.toml
+  h_7a890aca0105ef 1-33
+appworld/experiments/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/pi_code_agent/instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-111
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/src/appworld/common/prompts.py
+  s_3c3caa49457c55::t_13fb423f04aeba 1-163
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/keyed_entries.py
+  s_3c3caa49457c55::t_43147620fc3996 1-88
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/credentials.md
+  s_3c3caa49457c55::t_43147620fc3996 1-100
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/multi_criteria_filtering.md
+  s_3c3caa49457c55::t_43147620fc3996 1-81
+appworld/experiments/prompts/smolagents/task_completer_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/code/common/vllm_plugins/nemotron_toolcall_parser.py
+  s_3c3caa49457c55::t_43147620fc3996 1-106
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+retrieval-test/pipeline_specs/7414db43f57a/nodes/fuse_rrf.py
+  h_7a890aca0105ef 1-76
+appworld/appworld_agents/prompts/api_predictor.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+appworld/appworld_agents/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/verify_tokens.py
+  s_3c3caa49457c55::t_9b57cde120b02b 1-16
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_collection_assembly.md
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/src/retrieval_test/node_deps.py
+  h_7a890aca0105ef 1-186
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/.source/apps.bundle
+  s_3c3caa49457c55::t_edb0f640e9f175 1-3
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/account_check.py
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/tests/package/test_prepare_api_docs.py
+  s_3c3caa49457c55::t_55935d8ab3dcd7 1-376
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/scripts/show_bundle.py
+  s_3c3caa49457c55::t_43147620fc3996 1-18
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+retrieval-test/datasets/musique/test/corpus.jsonl
+  h_7a890aca0105ef 1-5997
+appworld/experiments/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/src/appworld/common/unique_caller.py
+  s_3c3caa49457c55::t_668e78223a47b1 1-23
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/data_splits/test_normal_all_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-168
+appworld/appworld_agents/configs/smolagents_tool_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/code/smolagents/task_completer.py
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_organization.md
+  s_3c3caa49457c55::t_43147620fc3996 1-25
+appworld/appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/elf-memory-extraction.md
+  h_7a890aca0105ef 1-26
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/scripts/relationship_filter.py
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/_generator/models/minimax.py
+  s_3c3caa49457c55::t_43147620fc3996 1-53
+appworld/experiments/configs/smolagents_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/code/legacy/plain/agents/agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-149
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+retrieval-test/pipeline_specs/10f675e808b9/nodes/rerank_cross.py
+  h_7a890aca0105ef 1-947
+appworld/experiments/configs/_generator/templates/openai_agents_mcp_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-122
+appworld/experiments/configs/smolagents_tool_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/prompts/empty_skill/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-4
+appworld/src/appworld/common/misc.py
+  s_3c3caa49457c55::t_9f025b1d0092dc 1-133
+appworld/src/appworld/collections/models.py
+  s_3c3caa49457c55::t_5e936cb752b7df 1-571
+appworld/experiments/configs/_generator/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-234
+appworld/appworld_agents/code/simplified/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-43
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/people_references.md
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/generate/images/compressed.py
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/images/banner-dark.svg
+  s_3c3caa49457c55::t_43147620fc3996 1-3
+retrieval-test/src/retrieval_test/pi_rag_one.py
+  h_7a890aca0105ef 1-85
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/experiments/data_splits/train_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-147
+retrieval-test/src/retrieval_test/pi_evaluate.py
+  h_7a890aca0105ef 1-119
+appworld/tests/experiments/patches/v0.1.2.patch
+  s_3c3caa49457c55::t_0288c2b548e6dd 1-58
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/common/safety_guard.py
+  s_3c3caa49457c55::t_3f8ac3511440f9 1-402
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/equal_share_receipt_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-27
+appworld/src/appworld/common/printer.py
+  s_3c3caa49457c55::t_fb354af61a74f0 1-116
+appworld/scripts/clone_pr.py
+  s_3c3caa49457c55::t_43147620fc3996 1-202
+appworld/src/appworld/common/temp.py
+  s_3c3caa49457c55::t_1ff6805cf400b3 1-37
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/generate-mips-vm.py
+  h_7a890aca0105ef 1-301
+appworld/src/appworld/common/registrable.py
+  s_3c3caa49457c55::t_77b281b8a36be7 1-208
+appworld/appworld_agents/code/common/logger.py
+  s_3c3caa49457c55::t_43147620fc3996 1-203
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/code/simplified/trajectory.py
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+retrieval-test/pipeline_specs/default/nodes/query_rewrite.py
+  h_7a890aca0105ef 1-71
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/code/legacy/recoma/react_controller.py
+  s_3c3caa49457c55::t_43147620fc3996 1-195
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/generate/code/app_starter.py
+  s_3c3caa49457c55::t_43147620fc3996 1-961
+appworld/experiments/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+retrieval-test/pipeline_specs/7414db43f57a/nodes/graph_rescore.py
+  h_7a890aca0105ef 1-463
+appworld/experiments/data_splits/val_test_normal_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-100
+appworld/experiments/code/simplified/full_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-211
+appworld/notebooks/minimal_agent.ipynb
+  s_3c3caa49457c55::t_43147620fc3996 1-367
+appworld/experiments/configs/_generator/models/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-242
+appworld/src/appworld/verify.py
+  s_3c3caa49457c55::t_2cc476257dfc64 1-218
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/.github/workflows/bundle-check.yml
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/pipeline_specs/10f675e808b9/prompt/rewrite.md
+  h_7a890aca0105ef 1-514
+appworld/experiments/configs/simplified_react_code_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/scripts/build_image.py
+  s_3c3caa49457c55::t_43147620fc3996 1-73
+appworld/experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/code/legacy/recoma/appworld_env_models.py
+  s_3c3caa49457c55::t_43147620fc3996 1-63
+appworld/appworld_agents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-20
+appworld/experiments/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/skill_react_code_agent/skill2/references/file_system.md
+  s_3c3caa49457c55::t_43147620fc3996 1-122
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/ci/function_calling_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-46
+appworld/experiments/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+retrieval-test/pipeline_specs/10f675e808b9/nodes/fuse_rrf.py
+  h_7a890aca0105ef 1-60
+appworld/appworld_agents/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/src/appworld/common/plotting.py
+  s_3c3caa49457c55::t_1219bbf7ceee38 1-337
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/bayesian-network-causal-guide.md
+  h_7a890aca0105ef 1-162
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/record_disambiguation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-18
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+retrieval-test/src/retrieval_test/evaluate.py
+  h_7a890aca0105ef 1-264
+appworld/pyproject.toml
+  s_3c3caa49457c55::t_43147620fc3996 1-293
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/code/simplified/function_calling_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-200
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/check_and_fix_broken_links.py
+  s_3c3caa49457c55::t_43147620fc3996 1-168
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/common/math.py
+  s_3c3caa49457c55::t_8ad62b0d67191c 1-202
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/recommendation_feed_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-45
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/prompts/full_code_agent/_legacy_full_code_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-63
+appworld/generate/tasks/generate_and_validate_tasks.py
+  s_3c3caa49457c55::t_43147620fc3996 1-493
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+.gitignore
+  h_7a890aca0105ef 1-15
+appworld/src/appworld/serve/_apis.py
+  s_3c3caa49457c55::t_aa549459ccd5dd 1-33
+retrieval-test/src/retrieval_test/embedding_client.py
+  h_7a890aca0105ef 1-276
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/empty_skill/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-4
+appworld/experiments/code/simplified/pi_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-677
+appworld/src/appworld/serve/environment.py
+  s_3c3caa49457c55::t_255ed3b2835b10 1-310
+appworld/experiments/eval_batch.py
+  s_3c3caa49457c55::t_43147620fc3996 1-488
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/src/appworld/install.py
+  s_3c3caa49457c55::t_ae426c3cd4b223 1-107
+appworld/appworld_agents/code/smolagents/models.py
+  s_3c3caa49457c55::t_43147620fc3996 1-101
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/sql-query-optimization.md
+  h_7a890aca0105ef 1-81
+appworld/scripts/verify_package_versions.py
+  s_3c3caa49457c55::t_43147620fc3996 1-11
+appworld/appworld_agents/configs/_generator/models/longcat.py
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/src/retrieval_test/io_utils.py
+  h_7a890aca0105ef 1-40
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/code/hal/main.py
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/experiments/code/legacy/plain/agents/lm_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-132
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/index_dbs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-51
+appworld/appworld_agents/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/code/legacy/plain/agents/full_code_reflexion_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-349
+appworld/generate/code/lib.py
+  s_3c3caa49457c55::t_43147620fc3996 1-1037
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/mteb-retrieval-guide.md
+  h_7a890aca0105ef 1-126
+appworld/experiments/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/relative_dates.py
+  s_3c3caa49457c55::t_43147620fc3996 1-162
+appworld/appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/src/appworld/apps/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-569
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/src/appworld/task.py
+  s_3c3caa49457c55::t_b80587f9d73c17 1-335
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/code/simplified/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-43
+appworld/src/appworld/common/code_parsing.py
+  s_3c3caa49457c55::t_042313863f643d 1-753
+appworld/.claude/settings.local.json
+  s_3c3caa49457c55::t_43147620fc3996 1-9
+appworld/src/appworld/common/io.py
+  s_3c3caa49457c55::t_f3a8387df42c41 1-442
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_rename_move_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-30
+appworld/experiments/.env.template
+  s_3c3caa49457c55::t_43147620fc3996 1-12
+appworld/appworld_agents/data_splits/train_val_split.json
+  s_3c3caa49457c55::t_43147620fc3996 1-388
+appworld/appworld_agents/code/simplified/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/deprecated-api-search.sh
+  h_7a890aca0105ef 1-109
+appworld/scripts/print_model_costs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-40
+appworld/experiments/code/smolagents/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-321
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/appworld_agents/configs/_generator/models/xai.py
+  s_3c3caa49457c55::t_43147620fc3996 1-99
+appworld/src/appworld/common/datetime.py
+  s_3c3caa49457c55::t_a65733889aef40 1-793
+appworld/appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/_generator/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-234
+appworld/appworld_agents/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/_generator/templates/smolagents_tool_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-102
+appworld/experiments/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/update_appworld_leaderboard.py
+  s_3c3caa49457c55::t_43147620fc3996 1-149
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/corewars-strategy.md
+  h_7a890aca0105ef 1-130
+appworld/experiments/configs/ci/react_code_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-36
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/src/retrieval_test/rerank_client.py
+  h_7a890aca0105ef 1-248
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/c-extension-optimization.md
+  h_7a890aca0105ef 1-126
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/_generator/templates/smolagents_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-96
+appworld/appworld_agents/prompts/function_calling_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-22
+appworld/src/appworld/apps/lib/apis/callers.py
+  s_3c3caa49457c55::t_43147620fc3996 1-408
+appworld/experiments/code/smolagents/models.py
+  s_3c3caa49457c55::t_43147620fc3996 1-101
+appworld/appworld_agents/code/common/tool_parsers.py
+  s_3c3caa49457c55::t_43147620fc3996 1-115
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/remind_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+appworld/tests/package/test_safety_guard.py
+  s_3c3caa49457c55::t_73cfd9a4b8c38e 1-420
+appworld/scripts/beaker_ops.py
+  s_3c3caa49457c55::t_43147620fc3996 1-125
+appworld/appworld_agents/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/app_aggregation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-26
+appworld/experiments/code/legacy/plain/language_models/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-7
+appworld/appworld_agents/configs/_generator/models/google.py
+  s_3c3caa49457c55::t_43147620fc3996 1-485
+appworld/experiments/configs/_generator/models/minimax.py
+  s_3c3caa49457c55::t_43147620fc3996 1-53
+appworld/tests/experiments/report.md
+  s_3c3caa49457c55::t_57ed46d9f5870f 1-25
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/gpt2-bpe-tokenizer.md
+  h_7a890aca0105ef 1-196
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/code/legacy/plain/agents/function_calling_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-294
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/inspect.py
+  s_3c3caa49457c55::t_43147620fc3996 1-103
+appworld/tests/package/common/test_time.py
+  s_3c3caa49457c55::t_5ac21683b18797 1-39
+appworld/experiments/code/legacy/recoma/react_controller.py
+  s_3c3caa49457c55::t_43147620fc3996 1-195
+appworld/appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-50
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/code/simplified/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-18
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/_generator/models/nvidia.py
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/UPSTREAM.md
+  s_3c3caa49457c55::t_f8c0de5e51e8b8 1-5,7-8,9-10
+retrieval-test/src/retrieval_test/pi_generate.py
+  h_7a890aca0105ef 1-294
+appworld/experiments/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/src/appworld/apps/lib/apis/local_remote.py
+  s_3c3caa49457c55::t_43147620fc3996 1-295
+appworld/experiments/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/code/legacy/recoma/appworld_prompted_lm.py
+  s_3c3caa49457c55::t_43147620fc3996 1-71
+appworld/experiments/run_full_test.py
+  s_3c3caa49457c55::t_43147620fc3996 1-158
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/code/common/api_predictor.py
+  s_3c3caa49457c55::t_43147620fc3996 1-140
+appworld/tests/package/common/test_math.py
+  s_3c3caa49457c55::t_d23a17a88313da 1-11
+appworld/experiments/prompts/plan_execute_code_agent/plan_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/ci/function_calling_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-46
+appworld/appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/tests/package/test_appworld.py
+  s_3c3caa49457c55::t_026e1130f63387 1-1497
+appworld/experiments/create_data_split.py
+  s_3c3caa49457c55::t_43147620fc3996 1-243
+appworld/appworld_agents/run_batch.py
+  s_3c3caa49457c55::t_43147620fc3996 1-556
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/file_bucket.py
+  s_3c3caa49457c55::t_43147620fc3996 1-38
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_organization.md
+  s_3c3caa49457c55::t_43147620fc3996 1-25
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/relative_dates.py
+  s_3c3caa49457c55::t_43147620fc3996 1-162
+appworld/experiments/code/legacy/recoma/appworld_env_models.py
+  s_3c3caa49457c55::t_43147620fc3996 1-63
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/binary-analysis.md
+  h_7a890aca0105ef 1-51
+appworld/appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-52
+appworld/experiments/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-20
+appworld/experiments/prompts/pi_code_agent/instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-111
+appworld/dockerfile
+  s_3c3caa49457c55::t_43147620fc3996 1-37
+appworld/experiments/code/common/logger.py
+  s_3c3caa49457c55::t_43147620fc3996 1-203
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/data_splits/test_challenge_all_task_ids.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-417
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/prompts/skill_react_code_agent/skill/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-75
+appworld/generate/.source/data.bundle
+  s_3c3caa49457c55::t_51d98f41c77a14 1-3
+retrieval-test/tools/prepare_musique.py
+  h_7a890aca0105ef 1-218
+appworld/experiments/data_splits/train_val_split.json
+  s_3c3caa49457c55::t_43147620fc3996 1-388
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/skill_react_code_agent/skill/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-75
+appworld/tests/package/common/test_random.py
+  s_3c3caa49457c55::t_2c2dbcf8d87177 1-177
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/code/simplified/function_calling_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-200
+appworld/appworld_agents/prompts/smolagents/task_completer_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/range-coding-encoder.md
+  h_7a890aca0105ef 1-106
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/_generator/models/openai.py
+  s_3c3caa49457c55::t_43147620fc3996 1-693
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/document_content_editing.md
+  s_3c3caa49457c55::t_43147620fc3996 1-23
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+retrieval-test/src/pi/auth.json
+  h_7a890aca0105ef 1
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/dates.py
+  s_3c3caa49457c55::t_43147620fc3996 1-40
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/remind_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/file_bucket.py
+  s_3c3caa49457c55::t_43147620fc3996 1-38
+appworld/experiments/code/legacy/recoma/plan_and_execute.py
+  s_3c3caa49457c55::t_43147620fc3996 1-111
+appworld/experiments/prompts/full_code_agent/_legacy_full_code_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-63
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_aggregation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+appworld/appworld_agents/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-39
+appworld/appworld_agents/prompts/skill_react_code_agent/skill2/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-79
+appworld/experiments/configs/_generator/templates/simplified_full_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_43147620fc3996 1-116
+appworld/tests/experiments/patches/v0.1.3.patch
+  s_3c3caa49457c55::t_c7ff3f030e21f2 1-58
+appworld/appworld_agents/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/time_arithmetic.md
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+retrieval-test/pipeline_specs/default/nodes/fuse_rrf.py
+  h_7a890aca0105ef 1-60
+appworld/appworld_agents/code/simplified/skill_react_code_agent.py
+  s_3c3caa49457c55::t_43147620fc3996 1-294
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/ci/react_code_agent.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-36
+appworld/experiments/code/openai_agents/run.py
+  s_3c3caa49457c55::t_43147620fc3996 1-309
+appworld/experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/datasets/musique/train/queries.jsonl
+  h_7a890aca0105ef 1-300
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/common/constants.py
+  s_3c3caa49457c55::t_5991fff3e3e1d2 1-54
+appworld/experiments/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/scripts/compile_results.py
+  s_3c3caa49457c55::t_43147620fc3996 1-226
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-74
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/simplified_react_code_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/analyze-chess-board.py
+  h_7a890aca0105ef 1-226
+appworld/scripts/pull_from_remote.py
+  s_3c3caa49457c55::t_43147620fc3996 1-230
+retrieval-test/pipeline_specs/default/nodes/graph_rescore.py
+  h_7a890aca0105ef 1-424
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/experiments/configs/simplified_react_code_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-60
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/configs/_generator/agents/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-82
+appworld/src/appworld/apps/lib/models/orm.py
+  s_3c3caa49457c55::t_43147620fc3996 1-1976
+appworld/appworld_agents/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/experiments/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/prompts/skill_react_code_agent/skill/references/workflows.md
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/experiments/prompts/skill_react_code_agent/qwen-skill-40h/scripts/relationship_filter.py
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/prompts/smolagents/code_instructions.yaml
+  s_3c3caa49457c55::t_43147620fc3996 1-208
+appworld/src/appworld/common/time.py
+  s_3c3caa49457c55::t_fa2220a10c62d5 1-175
+retrieval-test/datasets/musique/val/queries.jsonl
+  h_7a890aca0105ef 1-100
+retrieval-test/pipeline_specs/7414db43f57a/nodes/query_rewrite.py
+  h_7a890aca0105ef 1-146
+appworld/experiments/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/src/appworld/collections/api_docs.pyi
+  s_3c3caa49457c55::t_18bf445a36212c 1-1000
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/gpt2-verify.py
+  h_7a890aca0105ef 1-194
+appworld/tests/package/common/test_errors.py
+  s_3c3caa49457c55::t_d02c6909054eb3 1-30
+appworld/experiments/prompts/full_code_agent/full_code_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-94
+appworld/appworld_agents/configs/simplified_react_code_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+retrieval-test/pipeline_specs/7414db43f57a/nodes/rerank_cross.py
+  h_7a890aca0105ef 1-422
+appworld/experiments/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/_generator/models/moonshot.py
+  s_3c3caa49457c55::t_43147620fc3996 1-53
+appworld/experiments/list_tasks.py
+  s_3c3caa49457c55::t_43147620fc3996 1-88
+appworld/src/appworld/download.py
+  s_3c3caa49457c55::t_74c49eb97d5064 1-136
+appworld/tests/package/test_sqlmodel.py
+  s_3c3caa49457c55::t_50e66713408f57 1-1433
+appworld/appworld_agents/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-59
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/tests/package/common/test_finders.py
+  s_3c3caa49457c55::t_1d03fe1a1dec59 1-20
+appworld/generate/code/api_docs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-191
+appworld/appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/src/appworld/apps/lib/models/db.py
+  s_3c3caa49457c55::t_43147620fc3996 1-536
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/experiments/prompts/function_calling_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-22
+appworld/experiments/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-42
+appworld/appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/diff_api_docs.py
+  s_3c3caa49457c55::t_43147620fc3996 1-167
+appworld/appworld_agents/code/smolagents/agents.py
+  s_3c3caa49457c55::t_43147620fc3996 1-31
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/refund_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-24
+appworld/appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-67
+appworld/appworld_agents/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/RELEASE_PROCESS.md
+  s_3c3caa49457c55::t_43147620fc3996 1-218
+appworld/appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-48
+appworld/appworld_agents/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+terminal-bench/src/tbtest/generate.py
+  h_7a890aca0105ef 1-607
+appworld/experiments/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-58
+appworld/src/appworld/common/evaluation.py
+  s_3c3caa49457c55::t_708a98dd385099 1-370
+retrieval-test/src/retrieval_test/trajectory.py
+  h_7a890aca0105ef 1-162
+appworld/experiments/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/configs/_generator/models/anthropic.py
+  s_3c3caa49457c55::t_43147620fc3996 1-577
+appworld/tests/package/common/test_code_tools.py
+  s_3c3caa49457c55::t_aef7b5c6f096d8 1-81
+retrieval-test/src/retrieval_test/cache_root.py
+  h_7a890aca0105ef 1-21
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/bill_split_reconciliation.md
+  s_3c3caa49457c55::t_43147620fc3996 1-21
+retrieval-test/src/retrieval_test/embedding_cache.py
+  h_7a890aca0105ef 1-121
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/skill_react_code_agent/skill2/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-91
+appworld/experiments/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/README.md
+  s_3c3caa49457c55::t_43147620fc3996 1-5
+retrieval-test/pipeline_specs/7414db43f57a/nodes/truncate.py
+  h_7a890aca0105ef 1-38
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/SKILL.md
+  s_3c3caa49457c55::t_43147620fc3996 1-160
+appworld/scripts/print_providers_model_ids.py
+  s_3c3caa49457c55::t_43147620fc3996 1-49
+appworld/experiments/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-70
+appworld/appworld_agents/code/legacy/plain/language_models/language_model.py
+  s_3c3caa49457c55::t_43147620fc3996 1-11
+appworld/appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_export_tasks.md
+  s_3c3caa49457c55::t_43147620fc3996 1-84
+appworld/experiments/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-55
+retrieval-test/pipeline_specs/default/prompt/rewrite.md
+  h_7a890aca0105ef 1-9
+appworld/experiments/code/legacy/recoma/__init__.py
+  s_3c3caa49457c55::t_43147620fc3996 1-11
+appworld/appworld_agents/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-69
+appworld/experiments/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+terminal-bench/src/tbtest/trajectory_parser.py
+  h_7a890aca0105ef 1-299
+appworld/experiments/prompts/function_calling_agent/instructions.txt
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/appworld_agents/prompts/function_calling_agent/demos.json
+  s_3c3caa49457c55::t_43147620fc3996 1-301
+appworld/appworld_agents/configs/_generator/models/baidu.py
+  s_3c3caa49457c55::t_43147620fc3996 1-43
+appworld/experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+appworld/scripts/dump_beaker_metrics.py
+  s_3c3caa49457c55::t_43147620fc3996 1-25
+appworld/appworld_agents/code/common/utils.py
+  s_3c3caa49457c55::t_43147620fc3996 1-32
+appworld/LICENSE
+  s_3c3caa49457c55::t_43147620fc3996 1-201
+appworld/appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-56
+appworld/appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-68
+retrieval-test/src/pi/settings.json
+  h_7a890aca0105ef 1-7
+appworld/experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43147620fc3996 1-57
+appworld/experiments/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_43147620fc3996 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "17e735a726d8c7153a91a3a3a8567a0b2962d78d",
+  "prompts": {},
+  "humans": {
+    "h_7a890aca0105ef": {
+      "author": "jacklv111 <lv***@163.com>"
+    }
+  },
+  "sessions": {
+    "s_3c3caa49457c55": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "9f10b853-3633-43c6-b068-f844a8a90ab4",
+        "model": "glink/Kimi-K3:glink_domestic"
+      },
+      "human_author": "jacklv111 <lv***@163.com>"
+    }
+  }
+}
