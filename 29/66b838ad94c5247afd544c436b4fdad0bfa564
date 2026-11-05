@@ -1,0 +1,2145 @@
+.claude/settings.local.json
+  s_3c3caa49457c55::t_b4a88c73e4079b 1-9
+.dockerignore
+  s_3c3caa49457c55::t_10d4f353a2ac70 1-32
+.gitattributes
+  s_3c3caa49457c55::t_75493ee4292f0d 1-2
+.github/workflows/bundle-check.yml
+  s_3c3caa49457c55::t_dd25ff2553db6b 1-57
+.github/workflows/ci.yml
+  s_3c3caa49457c55::t_da69846336763f 1-172
+.github/workflows/links-check.yml
+  s_3c3caa49457c55::t_6d559714cb1993 1-27
+.github/workflows/run-and-eval.yml
+  s_3c3caa49457c55::t_d1b597de0ad720 1-116
+.gitignore
+  s_3c3caa49457c55::t_5b5f07b2c83192 1-135
+.pre-commit-config.yaml
+  s_3c3caa49457c55::t_5a8d440bf07b76 1-10
+.private.gitignore
+  s_3c3caa49457c55::t_11dac7ab5c3045 1-123
+DEVELOPMENT.md
+  s_3c3caa49457c55::t_937476898d7cd5 1-211
+LICENSE
+  s_3c3caa49457c55::t_401dbcb9e66ad2 1-201
+README.md
+  s_3c3caa49457c55::t_4e1e4487d98536 1-1663
+README.pypi.md
+  s_3c3caa49457c55::t_8d2135f5834d4a 1-5
+RELEASE_PROCESS.md
+  s_3c3caa49457c55::t_41a2de6f896400 1-218
+appworld_agents/.env.template
+  s_3c3caa49457c55::t_26ec75e1712721 1-12
+appworld_agents/MANIFEST.in
+  s_3c3caa49457c55::t_0773ae00abb1da 1-12
+appworld_agents/README.md
+  s_3c3caa49457c55::t_0dae3116731202 1-5
+appworld_agents/__init__.py
+  s_3c3caa49457c55::t_1b8ba478db05e5 1-20
+appworld_agents/code/__init__.py
+  s_3c3caa49457c55::t_92989c85acc449 1-12
+appworld_agents/code/common/api_predictor.py
+  s_3c3caa49457c55::t_2a7deced1708c7 1-140
+appworld_agents/code/common/logger.py
+  s_3c3caa49457c55::t_658f582c89a086 1-203
+appworld_agents/code/common/tool_parsers.py
+  s_3c3caa49457c55::t_0c4f86eec62852 1-115
+appworld_agents/code/common/usage_tracker.py
+  s_3c3caa49457c55::t_6f0b1530d10213 1-328
+appworld_agents/code/common/utils.py
+  s_3c3caa49457c55::t_dd9b6517da20c9 1-32
+appworld_agents/code/common/vllm_plugins/__init__.py
+  s_3c3caa49457c55::t_bcc0c60ca8475d 1-16
+appworld_agents/code/common/vllm_plugins/nemotron_toolcall_parser.py
+  s_3c3caa49457c55::t_4e1012f68047e4 1-106
+appworld_agents/code/common/vllm_plugins/xlam_tool_call_parser.py
+  s_3c3caa49457c55::t_2a037108aa09ac 1-203
+appworld_agents/code/hal/main.py
+  s_3c3caa49457c55::t_579462dda13288 1-32
+appworld_agents/code/hal/requirements.txt
+  s_3c3caa49457c55::t_7100de93b672cc 1-2
+appworld_agents/code/legacy/plain/agents/__init__.py
+  s_3c3caa49457c55::t_9bcf84733c6df0 1-8
+appworld_agents/code/legacy/plain/agents/agent.py
+  s_3c3caa49457c55::t_af4f92626da16c 1-149
+appworld_agents/code/legacy/plain/agents/full_code_reflexion_agent.py
+  s_3c3caa49457c55::t_d7a64d3755c567 1-349
+appworld_agents/code/legacy/plain/agents/function_calling_agent.py
+  s_3c3caa49457c55::t_39f51fb258b428 1-294
+appworld_agents/code/legacy/plain/agents/lm_agent.py
+  s_3c3caa49457c55::t_8dc45816fbe6b0 1-132
+appworld_agents/code/legacy/plain/language_models/__init__.py
+  s_3c3caa49457c55::t_eb339185530139 1-7
+appworld_agents/code/legacy/plain/language_models/language_model.py
+  s_3c3caa49457c55::t_71edba55485905 1-11
+appworld_agents/code/legacy/plain/language_models/openai_language_model.py
+  s_3c3caa49457c55::t_044f35d80fcfd2 1-547
+appworld_agents/code/legacy/plain/run.py
+  s_3c3caa49457c55::t_10a8dcc33bc8c7 1-93
+appworld_agents/code/legacy/recoma/__init__.py
+  s_3c3caa49457c55::t_59b03e2f8afc7e 1-11
+appworld_agents/code/legacy/recoma/appworld_env_models.py
+  s_3c3caa49457c55::t_b2534378085c49 1-63
+appworld_agents/code/legacy/recoma/appworld_prompted_lm.py
+  s_3c3caa49457c55::t_e3326c7321c467 1-71
+appworld_agents/code/legacy/recoma/appworld_reader.py
+  s_3c3caa49457c55::t_c026ee90621507 1-65
+appworld_agents/code/legacy/recoma/plan_and_execute.py
+  s_3c3caa49457c55::t_e1e0e183867780 1-111
+appworld_agents/code/legacy/recoma/react_controller.py
+  s_3c3caa49457c55::t_4e3eadd3adc78c 1-195
+appworld_agents/code/legacy/recoma/run.py
+  s_3c3caa49457c55::t_069b02f12afc7e 1-113
+appworld_agents/code/legacy/recoma/singleton_appworld.py
+  s_3c3caa49457c55::t_6bfbb1c4a1170b 1-19
+appworld_agents/code/openai_agents/api_predictor.py
+  s_3c3caa49457c55::t_4143a6082a8109 1-40
+appworld_agents/code/openai_agents/language_model.py
+  s_3c3caa49457c55::t_447f5105849b2d 1-54
+appworld_agents/code/openai_agents/mcp.py
+  s_3c3caa49457c55::t_ea9ddb1ee323ef 1-110
+appworld_agents/code/openai_agents/run.py
+  s_3c3caa49457c55::t_7ff36e91e8c02f 1-309
+appworld_agents/code/simplified/__init__.py
+  s_3c3caa49457c55::t_90ee749bdb2836 1-18
+appworld_agents/code/simplified/agent.py
+  s_3c3caa49457c55::t_a74fe385c1ece0 1-157
+appworld_agents/code/simplified/api_predictor.py
+  s_3c3caa49457c55::t_e7e7fc50eb63f2 1-43
+appworld_agents/code/simplified/full_code_agent.py
+  s_3c3caa49457c55::t_adca6d2a9c36e7 1-211
+appworld_agents/code/simplified/function_calling_agent.py
+  s_3c3caa49457c55::t_e06fc814856810 1-200
+appworld_agents/code/simplified/language_model.py
+  s_3c3caa49457c55::t_5d11422250ad66 1-849
+appworld_agents/code/simplified/pi_code_agent.py
+  s_3c3caa49457c55::t_3aab4ef8c26d65 1-677
+appworld_agents/code/simplified/react_code_agent.py
+  s_3c3caa49457c55::t_c9e051651c333b 1-208
+appworld_agents/code/simplified/run.py
+  s_3c3caa49457c55::t_08fd642532428d 1-37
+appworld_agents/code/simplified/skill_react_code_agent.py
+  s_3c3caa49457c55::t_fe2aa69ca401d7 1-294
+appworld_agents/code/simplified/trajectory.py
+  s_3c3caa49457c55::t_d119be59501025 1-60
+appworld_agents/code/smolagents/__init__.py
+  s_3c3caa49457c55::t_06a39880c9bd86 1-3
+appworld_agents/code/smolagents/agents.py
+  s_3c3caa49457c55::t_2b208efef847a2 1-31
+appworld_agents/code/smolagents/api_predictor.py
+  s_3c3caa49457c55::t_65c5a378ce5a2a 1-65
+appworld_agents/code/smolagents/models.py
+  s_3c3caa49457c55::t_8f806fae067727 1-101
+appworld_agents/code/smolagents/run.py
+  s_3c3caa49457c55::t_2a6f706c6d96c0 1-321
+appworld_agents/code/smolagents/task_completer.py
+  s_3c3caa49457c55::t_a23c3afd2338b3 1-57
+appworld_agents/configs/_generator/agents/__init__.py
+  s_3c3caa49457c55::t_c8ea459dfa10bf 1-82
+appworld_agents/configs/_generator/models/__init__.py
+  s_3c3caa49457c55::t_628a739884a704 1-242
+appworld_agents/configs/_generator/models/alibaba.py
+  s_3c3caa49457c55::t_9929f8b2bb0b98 1-279
+appworld_agents/configs/_generator/models/anthropic.py
+  s_3c3caa49457c55::t_ce324aee805e8c 1-577
+appworld_agents/configs/_generator/models/baidu.py
+  s_3c3caa49457c55::t_06f81026012d7f 1-43
+appworld_agents/configs/_generator/models/cohere.py
+  s_3c3caa49457c55::t_854dddea8dd98e 1-28
+appworld_agents/configs/_generator/models/deepseek.py
+  s_3c3caa49457c55::t_33e428d6aa7ef4 1-132
+appworld_agents/configs/_generator/models/google.py
+  s_3c3caa49457c55::t_c45432ed27f126 1-485
+appworld_agents/configs/_generator/models/longcat.py
+  s_3c3caa49457c55::t_684f06a79c26bb 1-55
+appworld_agents/configs/_generator/models/meta.py
+  s_3c3caa49457c55::t_af09813d168102 1-52
+appworld_agents/configs/_generator/models/minimax.py
+  s_3c3caa49457c55::t_34f7eb1825069d 1-53
+appworld_agents/configs/_generator/models/misc.py
+  s_3c3caa49457c55::t_af89701649d9e3 1-84
+appworld_agents/configs/_generator/models/moonshot.py
+  s_3c3caa49457c55::t_596e34855c9d43 1-53
+appworld_agents/configs/_generator/models/nous_research.py
+  s_3c3caa49457c55::t_4486730875fe2f 1-43
+appworld_agents/configs/_generator/models/nvidia.py
+  s_3c3caa49457c55::t_eccb380f925efd 1-55
+appworld_agents/configs/_generator/models/openai.py
+  s_3c3caa49457c55::t_cc75ae7e0419f7 1-693
+appworld_agents/configs/_generator/models/salesforce.py
+  s_3c3caa49457c55::t_5d8c949bb1ebb2 1-90
+appworld_agents/configs/_generator/models/xai.py
+  s_3c3caa49457c55::t_5be96a960a0aca 1-99
+appworld_agents/configs/_generator/models/zai.py
+  s_3c3caa49457c55::t_8a540dd201029f 1-78
+appworld_agents/configs/_generator/run.py
+  s_3c3caa49457c55::t_d3b5ca3e327256 1-234
+appworld_agents/configs/_generator/templates/openai_agents_mcp_agent.jsonnet.j2
+  s_3c3caa49457c55::t_d4b0748c2f1505 1-122
+appworld_agents/configs/_generator/templates/simplified_full_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_1e039f9d8b33ba 1-116
+appworld_agents/configs/_generator/templates/simplified_function_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_e8814d2afe435a 1-127
+appworld_agents/configs/_generator/templates/simplified_pi_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_62581ef1ff3cb1 1-53
+appworld_agents/configs/_generator/templates/simplified_react_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_80722a0fa9b56e 1-105
+appworld_agents/configs/_generator/templates/smolagents_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_0246111918dd97 1-96
+appworld_agents/configs/_generator/templates/smolagents_tool_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_a73e15cf899b67 1-102
+appworld_agents/configs/ci/full_code_agent.jsonnet
+  s_3c3caa49457c55::t_4ac477de36aae5 1-51
+appworld_agents/configs/ci/function_calling_agent.jsonnet
+  s_3c3caa49457c55::t_58a96ce768c1cf 1-46
+appworld_agents/configs/ci/pi_code_agent.jsonnet
+  s_3c3caa49457c55::t_c2169cc64b681e 1-37
+appworld_agents/configs/ci/react_code_agent.jsonnet
+  s_3c3caa49457c55::t_8f72f56266d531 1-36
+appworld_agents/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6310c70a7eddd9 1-49
+appworld_agents/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_dd2fb3b03f3a9d 1-49
+appworld_agents/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8d4c6e7111b3c2 1-50
+appworld_agents/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_73b5493d3ed976 1-50
+appworld_agents/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_be4eb89d3ffb54 1-48
+appworld_agents/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_c133b9e7b3ba42 1-48
+appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_88988e9a5e7e7b 1-48
+appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_45d8c2fdbdb4a4 1-48
+appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7ee9af0b29090e 1-48
+appworld_agents/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_74548a90c29766 1-48
+appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_0e15464d4368db 1-42
+appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_02738762797dd5 1-42
+appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_70dbf9bd2a30d1 1-42
+appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_269aa340059bef 1-42
+appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_a82c79176afbf4 1-42
+appworld_agents/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_dd10905b759808 1-42
+appworld_agents/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_27b66f6ba907e1 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_6123348589b1a6 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_52a0edecab3445 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_b66c8a03a16277 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7e3ff9bb938ac2 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_2f74ce1c1e7833 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d26f39969246f1 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_3338f28bd16872 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_f28e93f550b2f4 1-74
+appworld_agents/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_bd4b5d0d5eed76 1-74
+appworld_agents/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e977ba27f45b18 1-55
+appworld_agents/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_5ec87be37abb1d 1-55
+appworld_agents/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5997176bae3ec5 1-55
+appworld_agents/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_fca65903acfb93 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_3685dcfb898516 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_7939f3bb370bed 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_f70cb21036652b 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e87e9f8d0d9df8 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_8aee13af4d9795 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_2a84876877453c 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c100679858ff49 1-55
+appworld_agents/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_d141e85eb5fa9e 1-55
+appworld_agents/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e326efd739085a 1-74
+appworld_agents/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_d28deb4f162b4a 1-74
+appworld_agents/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_80c415a71d7ef1 1-69
+appworld_agents/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_a3597d5286b30a 1-69
+appworld_agents/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e907c9344b6048 1-69
+appworld_agents/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_4131dced016056 1-69
+appworld_agents/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c429d74ed19b9b 1-68
+appworld_agents/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_06e4182a82e9fc 1-68
+appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8992652c3caf4c 1-68
+appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_9e2dadcd415f1f 1-68
+appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_f68151dc6be0e7 1-68
+appworld_agents/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_70f0d4e069902d 1-68
+appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c2518bc784ecde 1-70
+appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_6eb4f55d43c04a 1-70
+appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cc786173b70285 1-70
+appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_d3c87e308bb1c2 1-70
+appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b5babcdf7eecef 1-70
+appworld_agents/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_870f09ec55cf93 1-70
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_4216c30b629c33 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_5ab0cfefab10b1 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_593d0a62d72266 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_46f4a296518999 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_abaf45a3d6b526 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_b9e854f9269313 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b1569985dc2093 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_e0f7b3dfd06a28 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_118cd1184855c8 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_01b6855b744b5c 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_734a5c1c913c5a 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_a9c4d896c69dc3 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7a6e1580bc3df4 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_77df440035e245 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_9403ce4c3692fa 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_0f472c272345cd 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_17aa309b2577a8 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_b2cc2c1034ce55 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_2d5126637a5ebc 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_3180156963be2a 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_2fe073230f12db 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_a1246ac6446488 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cc3f314099f877 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_46286fd3823ab1 1-68
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_82844b68df9d21 1-67
+appworld_agents/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ed803e1cf7b1e8 1-67
+appworld_agents/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_170e10b79eb6fe 1-69
+appworld_agents/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_5dc579d91558e3 1-69
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c2f16e8ef4d1c8 1-68
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_0fd55cd5096477 1-68
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_33e601300737e4 1-68
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_aa0c7cc251e2e7 1-68
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ddc890b75f50bb 1-71
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_448fd9645af442 1-71
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_20aab3ba25263a 1-70
+appworld_agents/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_4e1143265fbe52 1-70
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8a1390a021b927 1-67
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_6f7bcc57fe6885 1-67
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_de428a441478c8 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_68338258520da4 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_3f4e1a9c0012c1 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_f6e0d447ab8d86 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b905d9dce30dc2 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_468daa81c49573 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_660195abf4c901 1-68
+appworld_agents/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_63a734a81cec11 1-68
+appworld_agents/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_0023f39f5ca5aa 1-68
+appworld_agents/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_5e319487e4d8e5 1-68
+appworld_agents/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ee827fb2a1adc7 1-70
+appworld_agents/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_d19f657b31b219 1-70
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_062de36ab4309c 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_ea0094fa80c2a6 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c8ca9a7dd4a226 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_5aa6a59de2e242 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d8f85118c22def 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_e7e2f858c8b09d 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_529011d8a26294 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_41069465b6f76d 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_0c0ff467587a92 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_e161f54d330ece 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_46089538aa9cdc 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_2cb02ef46e3ca9 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_dbbb93f61adebe 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_7ad2cee4c1517c 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5dbe2776102581 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_b0697e18a7093d 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_95d6b9b3ae2e88 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_427d35df834a1d 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5cde940f94a37d 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_85c8776492062e 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5dcaa8e53a6f59 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_c787e57bdd6d6c 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_be929189d55eb3 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_94f427f36a2fce 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e9888ecc701877 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_96cd6f1d5d53d2 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_0f253154a3dd78 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_f295d68390d3a6 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b2477dc691a93d 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_84116833d3c9af 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_01ded30bed2287 1-68
+appworld_agents/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_663539dc59c6b6 1-68
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_04ab076b7b5d20 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_4c5aa80ef3d830 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_52c8304fbed861 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_4dcc41860312e5 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e69f9f6375131b 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_fbcd3ce5265e8b 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_a540801dcd0adb 1-69
+appworld_agents/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_4762f496c4dcf8 1-69
+appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_306f7116656608 1-70
+appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_963f1a4af67366 1-70
+appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_40a36a0f6e91ef 1-70
+appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_0596d239543529 1-70
+appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_bfe829fa84898b 1-70
+appworld_agents/configs/simplified_function_calling_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_9342bde2966746 1-70
+appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_026d28c66eb5a7 1-59
+appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_b8551dabe302e9 1-59
+appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b15568700672ad 1-59
+appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_986b6e6fcd4239 1-59
+appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6743f1be773924 1-59
+appworld_agents/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_2a28073ac10b73 1-59
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_1922b13bd8905f 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_a8167605263dde 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_88ecee9c5689fc 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ad01f88233c478 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_26be3a98ea63aa 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ca824f587369a1 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c2f86118ff63c5 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_92198e4b88da04 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_601ebfb17b048f 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_739bf882e96e01 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d9c328ff69863b 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_7fefbba3b9ec57 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cf9d30b066a460 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_4a6fd9fcce2253 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cff32b2610e580 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ddeddfa02f7bf0 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_18f9c4b24e2e55 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_48190f63137965 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_674406bcb0b75b 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_f00a811eea0815 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_598c80512d9e5e 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ab0c079a1512c5 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_2800ebb91e14f8 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_43c19170fcc263 1-57
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_22e551c3de973b 1-56
+appworld_agents/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_e3866bfdb30c3c 1-56
+appworld_agents/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_9945bbad1db7b6 1-59
+appworld_agents/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_4ddda5d6ad95f0 1-59
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7f13952ac08c89 1-58
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_1466a376bdc882 1-58
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_edaad966b5ef82 1-57
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_b24d9038b96b70 1-57
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_3faac99c0cfb16 1-57
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_7b345d06ba2085 1-57
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6b18bbdf6b9392 1-60
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_e016500a6b5ea9 1-60
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_97837bab95c5f8 1-59
+appworld_agents/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_0473985780c4ea 1-59
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_92e0cae13f3f03 1-56
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_d192666e5f671c 1-56
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fd13a49e207f56 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_8764cb2c75d765 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_a5919d78b68a64 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_5fbcabddc3ab8a 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cac74bc4b1651e 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ae23f104439c4b 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e0bb415706854d 1-57
+appworld_agents/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_9ab439b86a553a 1-57
+appworld_agents/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_db2ae5924916b1 1-58
+appworld_agents/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_a106c7a9595f1b 1-58
+appworld_agents/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_38d5680232b04e 1-57
+appworld_agents/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_5a1ac3c98d8c12 1-57
+appworld_agents/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_0e256054fa3936 1-59
+appworld_agents/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_3c3ef298fc55f8 1-59
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_975028a1cde1a4 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_a7b0fcbb789636 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_39f8721e561771 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_37f493dafe87e4 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8bf3ae220e4893 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_59a0ec494d232c 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_01c8d3e8da8f93 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_4d3d15aadacaa0 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_69b326a0d246d5 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_cdf58400e8355e 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8915abb6650710 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_e2afe068ba3886 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fae55015d4549a 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ad01fa13f5c87e 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d6652c446ab4e7 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_371305b70b6de1 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_bc9f84123c31b1 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_37abb3808dfd61 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8e94a55f9c0d68 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_bb6b620983b747 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_42be7f934b8635 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_078391ed77a848 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_2d088cc0967aee 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_228ff9daee4009 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_74d95f5a5a6c66 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_bbdbdec1191b90 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_52af942b531fc5 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_57b0e9d8b9ab79 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_eaf1cfb91d7e87 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_cb18d6411d2461 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_2b4e00281630e6 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_a014ea186be413 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_da6c735cfc7766 1-57
+appworld_agents/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_14ff51697ae4db 1-57
+appworld_agents/configs/simplified_react_code_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d678ec0ea1eb6b 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_261eb9c87212d3 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_76bc392265d364 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_824d40a15a3a3b 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fc2a4f4544585d 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_8f00d3f79f6f73 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_17e944e41f3e47 1-58
+appworld_agents/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_5778c688d84cbc 1-58
+appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b67d04f24c4cad 1-59
+appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_a8f9889ee6d95a 1-59
+appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e89ab8cb31ea6b 1-59
+appworld_agents/configs/simplified_react_code_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_2e9af41beb3db8 1-59
+appworld_agents/configs/simplified_react_code_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_99d01e82a155e8 1-59
+appworld_agents/configs/simplified_react_code_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_09b7b5cd206619 1-59
+appworld_agents/configs/smolagents_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_1b47c00b2015c0 1-56
+appworld_agents/configs/smolagents_tool_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_996f1ddfa9d809 1-59
+appworld_agents/create_data_split.py
+  s_3c3caa49457c55::t_b82cadaf394005 1-243
+appworld_agents/data_splits/test_challenge_all_task_ids.txt
+  s_3c3caa49457c55::t_74256177769a22 1-417
+appworld_agents/data_splits/test_normal_all_task_ids.txt
+  s_3c3caa49457c55::t_1d7aa02aaaf601 1-168
+appworld_agents/data_splits/train_task_ids.txt
+  s_3c3caa49457c55::t_0f03da325f0edb 1-147
+appworld_agents/data_splits/train_val_split.json
+  s_3c3caa49457c55::t_10261bca64229d 1-388
+appworld_agents/data_splits/val_all_task_ids.txt
+  s_3c3caa49457c55::t_52dfefc5b34df8 1-200
+appworld_agents/data_splits/val_test_challenge_task_ids.txt
+  s_3c3caa49457c55::t_f0d969375c6ec5 1-100
+appworld_agents/data_splits/val_test_normal_task_ids.txt
+  s_3c3caa49457c55::t_685e45fe0c09d8 1-100
+appworld_agents/eval_batch.py
+  s_3c3caa49457c55::t_5bedc6977223b7 1-488
+appworld_agents/eval_results.py
+  s_3c3caa49457c55::t_272f8cec4aaa85 1-195
+appworld_agents/list_tasks.py
+  s_3c3caa49457c55::t_066ac056f6c657 1-88
+appworld_agents/prompts/api_predictor.txt
+  s_3c3caa49457c55::t_b19f65c504cbbd 1-21
+appworld_agents/prompts/empty_skill/SKILL.md
+  s_3c3caa49457c55::t_02b6bf14bc0d81 1-4
+appworld_agents/prompts/full_code_agent/_legacy_full_code_instructions.txt
+  s_3c3caa49457c55::t_79efc9bb141165 1-63
+appworld_agents/prompts/full_code_agent/full_code_instructions.txt
+  s_3c3caa49457c55::t_95eaed4aae5482 1-94
+appworld_agents/prompts/full_code_agent/reflexion_instructions.txt
+  s_3c3caa49457c55::t_96ca007b619e08 1
+appworld_agents/prompts/function_calling_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_5b62ab00f35528 1-22
+appworld_agents/prompts/function_calling_agent/demos.json
+  s_3c3caa49457c55::t_caced977190279 1-301
+appworld_agents/prompts/function_calling_agent/instructions.txt
+  s_3c3caa49457c55::t_ffc84259ae575e 1-56
+appworld_agents/prompts/pi_code_agent/instructions.txt
+  s_3c3caa49457c55::t_b34c6c80e7136f 1-111
+appworld_agents/prompts/plan_execute_code_agent/execute_instructions.txt
+  s_3c3caa49457c55::t_7e9b9648db56c0 1-591
+appworld_agents/prompts/plan_execute_code_agent/plan_instructions.txt
+  s_3c3caa49457c55::t_dc48942c08c6f8 1-57
+appworld_agents/prompts/react_code_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_3ec4aa44edb4b3 1-343
+appworld_agents/prompts/react_code_agent/instructions.txt
+  s_3c3caa49457c55::t_92a3c6bbab111f 1-371
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/SKILL.md
+  s_3c3caa49457c55::t_8fe932f4d9ff9c 1-85
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/account_check.py
+  s_3c3caa49457c55::t_95ac6b51ddce14 1-51
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/dates.py
+  s_3c3caa49457c55::t_3a5662404c97ec 1-40
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/inspect.py
+  s_3c3caa49457c55::t_bc82ab9c543a6b 1-103
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/keyed_entries.py
+  s_3c3caa49457c55::t_7b65eef68c5272 1-88
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_1342e8bd3fe459 1-51
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/payment_cards.py
+  s_3c3caa49457c55::t_617da78019504c 1-81
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/reimbursement.py
+  s_3c3caa49457c55::t_a2da4fbf8976f8 1-79
+appworld_agents/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/relative_dates.py
+  s_3c3caa49457c55::t_ff5f39eb22fb26 1-162
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/SKILL.md
+  s_3c3caa49457c55::t_f48385a1b84afa 1-160
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/accept_reject_requests.md
+  s_3c3caa49457c55::t_beb5df4f0ea067 1-23
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/app_aggregation.md
+  s_3c3caa49457c55::t_b38e195e048fa4 1-26
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/bill_split_reconciliation.md
+  s_3c3caa49457c55::t_b81ed044053506 1-21
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/document_content_editing.md
+  s_3c3caa49457c55::t_35afa4a6b5c5be 1-23
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/equal_share_receipt_tasks.md
+  s_3c3caa49457c55::t_883de229f0857f 1-27
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_aggregation.md
+  s_3c3caa49457c55::t_3541ad2d537a3c 1-21
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_export_tasks.md
+  s_3c3caa49457c55::t_1a414f3935b1e4 1-84
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_organization.md
+  s_3c3caa49457c55::t_826ebb851dc0f0 1-25
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_rename_move_tasks.md
+  s_3c3caa49457c55::t_cccf4921326497 1-30
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/multi_criteria_filtering.md
+  s_3c3caa49457c55::t_5b99334ffc4717 1-81
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_library_tasks.md
+  s_3c3caa49457c55::t_d2bd05252a1dd5 1-78
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_player_queue.md
+  s_3c3caa49457c55::t_b6b14fbd743019 1-26
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/now_playing_tasks.md
+  s_3c3caa49457c55::t_42e51ec5280066 1-32
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/people_references.md
+  s_3c3caa49457c55::t_30a85e4e5fcf22 1-68
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/rating_review_tasks.md
+  s_3c3caa49457c55::t_3050812be416a1 1-22
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/recommendation_feed_tasks.md
+  s_3c3caa49457c55::t_ce04e46a565653 1-45
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/record_disambiguation.md
+  s_3c3caa49457c55::t_86121fb5b883b6 1-18
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/refund_tasks.md
+  s_3c3caa49457c55::t_6f47dec8a8aed3 1-24
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/remind_tasks.md
+  s_3c3caa49457c55::t_995dbcbdfe29fd 1-24
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/reply_tasks.md
+  s_3c3caa49457c55::t_d9987abd376c26 1-45
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/send_money_tasks.md
+  s_3c3caa49457c55::t_e5709f5324c5ef 1-62
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_collection_assembly.md
+  s_3c3caa49457c55::t_5f0547629e28f9 1-37
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_selection.md
+  s_3c3caa49457c55::t_036b905b353423 1-58
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/references/time_arithmetic.md
+  s_3c3caa49457c55::t_a8fff12c33fca4 1-24
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/file_bucket.py
+  s_3c3caa49457c55::t_b84b91f4d99100 1-38
+appworld_agents/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_d5283b6b604937 1-56
+appworld_agents/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/SKILL.md
+  s_3c3caa49457c55::t_c354d8866414f5 1-116
+appworld_agents/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/references/pagination.md
+  s_3c3caa49457c55::t_194f33c31b5294 1-54
+appworld_agents/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_4f56dc48c8fc48 1-39
+appworld_agents/prompts/skill_react_code_agent/only-skillmd/SKILL.md
+  s_3c3caa49457c55::t_6b801020bb63ad 1-161
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/SKILL.md
+  s_3c3caa49457c55::t_f5b2aefa5c76a2 1-340
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/complete_task.md
+  s_3c3caa49457c55::t_f66c1470fb1894 1-92
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/credentials.md
+  s_3c3caa49457c55::t_4530c3c287c0b1 1-100
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/pagination.md
+  s_3c3caa49457c55::t_32be04058d5f61 1-264
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/references/search_pattern.md
+  s_3c3caa49457c55::t_10590184338dc9 1-721
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_e619279923a251 1-52
+appworld_agents/prompts/skill_react_code_agent/qwen-skill-40h/scripts/relationship_filter.py
+  s_3c3caa49457c55::t_275d630b862360 1-57
+appworld_agents/prompts/skill_react_code_agent/skill/SKILL.md
+  s_3c3caa49457c55::t_8d44e3d7ec330a 1-75
+appworld_agents/prompts/skill_react_code_agent/skill/references/action-verification.md
+  s_3c3caa49457c55::t_694e852bfd4b86 1-54
+appworld_agents/prompts/skill_react_code_agent/skill/references/api-discovery.md
+  s_3c3caa49457c55::t_6bf49c60abdb2c 1-34
+appworld_agents/prompts/skill_react_code_agent/skill/references/pagination.md
+  s_3c3caa49457c55::t_f7fb983f24df3f 1-74
+appworld_agents/prompts/skill_react_code_agent/skill/references/workflows.md
+  s_3c3caa49457c55::t_293cc91e6a3de0 1-49
+appworld_agents/prompts/skill_react_code_agent/skill2/SKILL.md
+  s_3c3caa49457c55::t_2486402b630692 1-79
+appworld_agents/prompts/skill_react_code_agent/skill2/references/file_system.md
+  s_3c3caa49457c55::t_aacee079725636 1-122
+appworld_agents/prompts/skill_react_code_agent/skill2/references/pagination.md
+  s_3c3caa49457c55::t_25114bf342b15c 1-49
+appworld_agents/prompts/skill_react_code_agent/skill2/references/question_patterns.md
+  s_3c3caa49457c55::t_b62426def67475 1-112
+appworld_agents/prompts/skill_react_code_agent/skill2/scripts/helpers.py
+  s_3c3caa49457c55::t_827508e52f2c4b 1-76
+appworld_agents/prompts/skill_react_code_agent/skill2/scripts/pagination.py
+  s_3c3caa49457c55::t_c4f6affe73510c 1-91
+appworld_agents/prompts/smolagents/code_instructions.yaml
+  s_3c3caa49457c55::t_280d87156a39a5 1-208
+appworld_agents/prompts/smolagents/task_completer_instructions.txt
+  s_3c3caa49457c55::t_e0b6111358ad18 1-59
+appworld_agents/prompts/smolagents/tool_calling_instructions.yaml
+  s_3c3caa49457c55::t_8c107aae394bf4 1-186
+appworld_agents/pyproject.toml
+  s_3c3caa49457c55::t_a2b9ed01c79a6a 1-118
+appworld_agents/run_all_glm5.py
+  s_3c3caa49457c55::t_c54d9ed1219926 1-279
+appworld_agents/run_batch.py
+  s_3c3caa49457c55::t_ef9752faef5a49 1-556
+appworld_agents/run_full.py
+  s_3c3caa49457c55::t_177e9c2978b360 1-315
+appworld_agents/run_full_test.py
+  s_3c3caa49457c55::t_8f3951d7f4ab81 1-158
+cli/__init__.py
+  s_3c3caa49457c55::t_b61832e2422a8a 1-24
+dockerfile
+  s_3c3caa49457c55::t_7c555bf45959f4 1-37
+experiments/.env.template
+  s_3c3caa49457c55::t_71e3c1933634f1 1-12
+experiments/MANIFEST.in
+  s_3c3caa49457c55::t_889599ffbe222c 1-12
+experiments/README.md
+  s_3c3caa49457c55::t_09d2e5ff9a170b 1-5
+experiments/__init__.py
+  s_3c3caa49457c55::t_8a5af7d1227694 1-20
+experiments/code/__init__.py
+  s_3c3caa49457c55::t_6c49ceedb99444 1-12
+experiments/code/common/api_predictor.py
+  s_3c3caa49457c55::t_30c40d864d9149 1-140
+experiments/code/common/logger.py
+  s_3c3caa49457c55::t_09c231c62c83ea 1-203
+experiments/code/common/tool_parsers.py
+  s_3c3caa49457c55::t_12c3b5552f7c4e 1-115
+experiments/code/common/usage_tracker.py
+  s_3c3caa49457c55::t_dc78ab5de1d88b 1-328
+experiments/code/common/utils.py
+  s_3c3caa49457c55::t_604048b431c058 1-32
+experiments/code/common/vllm_plugins/__init__.py
+  s_3c3caa49457c55::t_4cbb2f86f437a9 1-16
+experiments/code/common/vllm_plugins/nemotron_toolcall_parser.py
+  s_3c3caa49457c55::t_ba109587cbcbab 1-106
+experiments/code/common/vllm_plugins/xlam_tool_call_parser.py
+  s_3c3caa49457c55::t_bf8e2aff5102e1 1-203
+experiments/code/hal/main.py
+  s_3c3caa49457c55::t_3b9cc7b7486245 1-32
+experiments/code/hal/requirements.txt
+  s_3c3caa49457c55::t_3d8f44abad313a 1-2
+experiments/code/legacy/plain/agents/__init__.py
+  s_3c3caa49457c55::t_db862416d3c35e 1-8
+experiments/code/legacy/plain/agents/agent.py
+  s_3c3caa49457c55::t_74ffecee2e0371 1-149
+experiments/code/legacy/plain/agents/full_code_reflexion_agent.py
+  s_3c3caa49457c55::t_a4d02f7644af0b 1-349
+experiments/code/legacy/plain/agents/function_calling_agent.py
+  s_3c3caa49457c55::t_217f0bc9a480b8 1-294
+experiments/code/legacy/plain/agents/lm_agent.py
+  s_3c3caa49457c55::t_67f7e64f09d47b 1-132
+experiments/code/legacy/plain/language_models/__init__.py
+  s_3c3caa49457c55::t_e53d38706375f1 1-7
+experiments/code/legacy/plain/language_models/language_model.py
+  s_3c3caa49457c55::t_f4870596865424 1-11
+experiments/code/legacy/plain/language_models/openai_language_model.py
+  s_3c3caa49457c55::t_047c509d4520e8 1-547
+experiments/code/legacy/plain/run.py
+  s_3c3caa49457c55::t_a702271475f67d 1-93
+experiments/code/legacy/recoma/__init__.py
+  s_3c3caa49457c55::t_eea65db22731da 1-11
+experiments/code/legacy/recoma/appworld_env_models.py
+  s_3c3caa49457c55::t_afbc24d5a3447a 1-63
+experiments/code/legacy/recoma/appworld_prompted_lm.py
+  s_3c3caa49457c55::t_05f0b22156442e 1-71
+experiments/code/legacy/recoma/appworld_reader.py
+  s_3c3caa49457c55::t_0cf546c21f77ee 1-65
+experiments/code/legacy/recoma/plan_and_execute.py
+  s_3c3caa49457c55::t_988b202dd4f956 1-111
+experiments/code/legacy/recoma/react_controller.py
+  s_3c3caa49457c55::t_1b276811573b00 1-195
+experiments/code/legacy/recoma/run.py
+  s_3c3caa49457c55::t_c01aa05d1be691 1-113
+experiments/code/legacy/recoma/singleton_appworld.py
+  s_3c3caa49457c55::t_6eb50f395066eb 1-19
+experiments/code/openai_agents/api_predictor.py
+  s_3c3caa49457c55::t_954b64cb20c4da 1-40
+experiments/code/openai_agents/language_model.py
+  s_3c3caa49457c55::t_851b4c21decaf8 1-54
+experiments/code/openai_agents/mcp.py
+  s_3c3caa49457c55::t_01b23e56d74bb9 1-110
+experiments/code/openai_agents/run.py
+  s_3c3caa49457c55::t_e01a562ee69b1c 1-309
+experiments/code/simplified/__init__.py
+  s_3c3caa49457c55::t_66a54f2facdd1e 1-18
+experiments/code/simplified/agent.py
+  s_3c3caa49457c55::t_e77a997c48de1b 1-157
+experiments/code/simplified/api_predictor.py
+  s_3c3caa49457c55::t_c3f4679f7dd6b5 1-43
+experiments/code/simplified/full_code_agent.py
+  s_3c3caa49457c55::t_613857e023e774 1-211
+experiments/code/simplified/function_calling_agent.py
+  s_3c3caa49457c55::t_85959c870a9cb1 1-200
+experiments/code/simplified/language_model.py
+  s_3c3caa49457c55::t_9821b2124c1d8e 1-849
+experiments/code/simplified/pi_code_agent.py
+  s_3c3caa49457c55::t_336597b9b4bad4 1-677
+experiments/code/simplified/react_code_agent.py
+  s_3c3caa49457c55::t_8424117d195cde 1-208
+experiments/code/simplified/run.py
+  s_3c3caa49457c55::t_ad3ccc527737d3 1-37
+experiments/code/simplified/skill_react_code_agent.py
+  s_3c3caa49457c55::t_9f03111e339d5b 1-294
+experiments/code/simplified/trajectory.py
+  s_3c3caa49457c55::t_b3fde8c4cae71c 1-60
+experiments/code/smolagents/__init__.py
+  s_3c3caa49457c55::t_821fd89f0e674e 1-3
+experiments/code/smolagents/agents.py
+  s_3c3caa49457c55::t_0e7a418d4167ff 1-31
+experiments/code/smolagents/api_predictor.py
+  s_3c3caa49457c55::t_3041b0fdff08cc 1-65
+experiments/code/smolagents/models.py
+  s_3c3caa49457c55::t_130010b229b487 1-101
+experiments/code/smolagents/run.py
+  s_3c3caa49457c55::t_f0bfc559158d29 1-321
+experiments/code/smolagents/task_completer.py
+  s_3c3caa49457c55::t_d586ea59b0235c 1-57
+experiments/configs/_generator/agents/__init__.py
+  s_3c3caa49457c55::t_4c933218c61fbc 1-82
+experiments/configs/_generator/models/__init__.py
+  s_3c3caa49457c55::t_0c8f7e2819ed8d 1-242
+experiments/configs/_generator/models/alibaba.py
+  s_3c3caa49457c55::t_70af0b3584986f 1-279
+experiments/configs/_generator/models/anthropic.py
+  s_3c3caa49457c55::t_05615d4cb3ea2a 1-577
+experiments/configs/_generator/models/baidu.py
+  s_3c3caa49457c55::t_0b32fc3509c9ed 1-43
+experiments/configs/_generator/models/cohere.py
+  s_3c3caa49457c55::t_e448fd21174e13 1-28
+experiments/configs/_generator/models/deepseek.py
+  s_3c3caa49457c55::t_2664fda9c745a4 1-132
+experiments/configs/_generator/models/google.py
+  s_3c3caa49457c55::t_57e17b7baf96f1 1-485
+experiments/configs/_generator/models/longcat.py
+  s_3c3caa49457c55::t_a8c1640c58d665 1-55
+experiments/configs/_generator/models/meta.py
+  s_3c3caa49457c55::t_fc0aaac41f3556 1-52
+experiments/configs/_generator/models/minimax.py
+  s_3c3caa49457c55::t_9a8f81e9dc5ac9 1-53
+experiments/configs/_generator/models/misc.py
+  s_3c3caa49457c55::t_489994e937502f 1-84
+experiments/configs/_generator/models/moonshot.py
+  s_3c3caa49457c55::t_4df848f2e542d4 1-53
+experiments/configs/_generator/models/nous_research.py
+  s_3c3caa49457c55::t_f2799d05d21001 1-43
+experiments/configs/_generator/models/nvidia.py
+  s_3c3caa49457c55::t_8607bc4178b34d 1-55
+experiments/configs/_generator/models/openai.py
+  s_3c3caa49457c55::t_f940348afd2391 1-693
+experiments/configs/_generator/models/salesforce.py
+  s_3c3caa49457c55::t_b2835c85ab736a 1-90
+experiments/configs/_generator/models/xai.py
+  s_3c3caa49457c55::t_daab2989af4207 1-99
+experiments/configs/_generator/models/zai.py
+  s_3c3caa49457c55::t_9fa2394720b92b 1-78
+experiments/configs/_generator/run.py
+  s_3c3caa49457c55::t_2613cf68299394 1-234
+experiments/configs/_generator/templates/openai_agents_mcp_agent.jsonnet.j2
+  s_3c3caa49457c55::t_a81e74043ac2c6 1-122
+experiments/configs/_generator/templates/simplified_full_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_fb8779fef791c9 1-116
+experiments/configs/_generator/templates/simplified_function_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_3727ebafecd87d 1-127
+experiments/configs/_generator/templates/simplified_pi_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_242b92262a2a19 1-53
+experiments/configs/_generator/templates/simplified_react_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_bf38d006e06f42 1-105
+experiments/configs/_generator/templates/smolagents_code_agent.jsonnet.j2
+  s_3c3caa49457c55::t_313ac95b18310e 1-96
+experiments/configs/_generator/templates/smolagents_tool_calling_agent.jsonnet.j2
+  s_3c3caa49457c55::t_e14aadd01e419a 1-102
+experiments/configs/ci/full_code_agent.jsonnet
+  s_3c3caa49457c55::t_7b9ac74c615376 1-51
+experiments/configs/ci/function_calling_agent.jsonnet
+  s_3c3caa49457c55::t_93898dc8ae513e 1-46
+experiments/configs/ci/pi_code_agent.jsonnet
+  s_3c3caa49457c55::t_c7ea14d3d592ab 1-37
+experiments/configs/ci/react_code_agent.jsonnet
+  s_3c3caa49457c55::t_a920069af9db9d 1-36
+experiments/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_41f2c84ed84d94 1-49
+experiments/configs/legacy_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_115e1e23437c35 1-49
+experiments/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_aa82c1e2c1023a 1-50
+experiments/configs/legacy_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_612bb375aab4f4 1-50
+experiments/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ab641c38e666c8 1-48
+experiments/configs/legacy_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_0a782ade6dd23c 1-48
+experiments/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_a7b25ad670f542 1-48
+experiments/configs/legacy_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_25d10749fa4068 1-48
+experiments/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ce9bd45f67bd0c 1-48
+experiments/configs/legacy_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_08d719bf755760 1-48
+experiments/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_a5d79e106e00fb 1-42
+experiments/configs/legacy_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_87a99a6a20528c 1-42
+experiments/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_141506441d4b29 1-42
+experiments/configs/legacy_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_009c0325cfe8ef 1-42
+experiments/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7907273e825479 1-42
+experiments/configs/legacy_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_408d13438f41c9 1-42
+experiments/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5c4b92a579eee3 1-74
+experiments/configs/legacy_plan_execute_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_b002777a7db375 1-74
+experiments/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_12a62617f023c3 1-74
+experiments/configs/legacy_plan_execute_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_26fd6abc40e3a3 1-74
+experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_79a76930ce71b4 1-74
+experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_8a3fba91273faa 1-74
+experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c57a0ccd369ce4 1-74
+experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_e91c0ada3bf286 1-74
+experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5b60145c4a68c0 1-74
+experiments/configs/legacy_plan_execute_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_494591b527e7c8 1-74
+experiments/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c58a88a51311ba 1-55
+experiments/configs/legacy_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_9c2f7468235abd 1-55
+experiments/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6e77dd821ec6e8 1-55
+experiments/configs/legacy_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_e34368fc092837 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_07a82863790a3d 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_0f03de6b8ffc5d 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_2290bbd57eca4a 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_9ef44975678dd6 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_e38c64dc543ea9 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_57ac20f4e914c4 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_bf008d13348c6c 1-55
+experiments/configs/legacy_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_0226513f1e5531 1-55
+experiments/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d25142fc69b9c7 1-74
+experiments/configs/openai_agents_mcp_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_ef1df27e021506 1-74
+experiments/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_17627f47a68e87 1-69
+experiments/configs/simplified_full_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_abf64406becf49 1-69
+experiments/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_71de23f02be4f3 1-69
+experiments/configs/simplified_full_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_f780be7baab5bc 1-69
+experiments/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_1ec3a8bf07392f 1-68
+experiments/configs/simplified_full_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_0cba293e3b5597 1-68
+experiments/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_37b5ae54cba2f1 1-68
+experiments/configs/simplified_full_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_e57794e4c53746 1-68
+experiments/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8eda3646311c61 1-68
+experiments/configs/simplified_full_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_722f68f1ba6c8e 1-68
+experiments/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_424d428758817a 1-70
+experiments/configs/simplified_function_calling_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_00f21382c2425c 1-70
+experiments/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c4f77024b9d4fd 1-70
+experiments/configs/simplified_function_calling_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_389237b07ac837 1-70
+experiments/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c67ea217ee3a4c 1-70
+experiments/configs/simplified_function_calling_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_397917caf41b0b 1-70
+experiments/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_10f74872b85ba6 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_bead25ff131ad9 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b67e426dbb8794 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_31ff9fb40aa6b3 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c2d26e2cfcbd6e 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_0930408d484f63 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ebf1ee5a5d5727 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_dfe66f188805e9 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_afa531780b0264 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_45a98175cb6484 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_210e108c1ccdba 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_4299dd6b416b0c 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fc6afb083f9f7a 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_e7f2864189ee80 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_84e808dab6ebfd 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ae1f4114482967 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_46c494394f2bd4 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_2637bd3998b454 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e8485eddafdb46 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_b4ef91b9d13c51 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_da8dc0a352df3d 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_1b73703bcd1758 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_15d254c3f6c30d 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_55d38def756976 1-68
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_aac7053da274dc 1-67
+experiments/configs/simplified_function_calling_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_3913dd41b5cb7e 1-67
+experiments/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_bea34e55528638 1-69
+experiments/configs/simplified_function_calling_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_746dd4c2422510 1-69
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e6bd3d0fe72aaa 1-68
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_b1633ce1c57357 1-68
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_0316afa7941b47 1-68
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_efbcad37cce31b 1-68
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8905a4ab94fbf1 1-71
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_3f9a8116271735 1-71
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_9a719230d64bfd 1-70
+experiments/configs/simplified_function_calling_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_ea0a2fa637b823 1-70
+experiments/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_dbe9a6748c9fac 1-67
+experiments/configs/simplified_function_calling_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_1e063b6248aa25 1-67
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6df247ef5c81b5 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_a853f8468a9b05 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ae4a8f07171ca7 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_1dc66721974885 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_edb827ef6d5c97 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_e946696fbb81c1 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d8c4c50a2e6153 1-68
+experiments/configs/simplified_function_calling_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_40c47f2ed6108b 1-68
+experiments/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e07756046e5149 1-68
+experiments/configs/simplified_function_calling_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_99c25a1bc6b30c 1-68
+experiments/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_799619cbe41300 1-70
+experiments/configs/simplified_function_calling_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_77e3c64f3537bc 1-70
+experiments/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fd053ca431f4e1 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_0017945bb7e808 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7417e777091f85 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_ea30a58d089d0e 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_f0008a809eb496 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_89abb4c4403186 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cdcc31bf1b4f57 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_097b98916f895d 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d394e3e64d3fcb 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_d688c761a3d3a4 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7a935b047e0e95 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_391cb1896f8c96 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ccba956b07895f 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_3265b0240ce26d 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_f8875879db3be7 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_b3bfe1868bba7a 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6e550e71eb22ee 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_62e758ca230120 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ea4930a862ef7b 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_bb65819332e461 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c06cab28a7c2b0 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_d687a45d8210f9 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_367d2adee15f46 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_48ef69f595a11b 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_78ed4cc331c199 1-68
+experiments/configs/simplified_function_calling_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_1a28e995da282a 1-68
+experiments/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_411592fb79f6c3 1-68
+experiments/configs/simplified_function_calling_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_c42bffdc59afc8 1-68
+experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6019eda7e11a7e 1-68
+experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_545f0904308fa0 1-68
+experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fdaf8788053d63 1-68
+experiments/configs/simplified_function_calling_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_10ea646abf4c3b 1-68
+experiments/configs/simplified_function_calling_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_61750bb1446112 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_61e96d6bde38a3 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b5fa26127ca8a2 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_201e1d616038bf 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c81151d077959b 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_c256183e665807 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_1c2ac8f0d726f2 1-69
+experiments/configs/simplified_function_calling_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_a31a04db17dbce 1-69
+experiments/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_68a6a4a9f6c7e4 1-70
+experiments/configs/simplified_function_calling_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_e1f5cc96a3ca54 1-70
+experiments/configs/simplified_function_calling_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_f69818407a0217 1-70
+experiments/configs/simplified_function_calling_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_203539353838e6 1-70
+experiments/configs/simplified_function_calling_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_3f8954cf1164c4 1-70
+experiments/configs/simplified_function_calling_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_3707e75c3e0512 1-70
+experiments/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_challenge.jsonnet
+  s_3c3caa49457c55::t_5566d3578c214d 1-59
+experiments/configs/simplified_react_code_agent/alibaba/qwen3-235b-a22b-thinking-2507/test_normal.jsonnet
+  s_3c3caa49457c55::t_f3b042875e25bd 1-59
+experiments/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_challenge.jsonnet
+  s_3c3caa49457c55::t_72a072cbb06f5e 1-59
+experiments/configs/simplified_react_code_agent/alibaba/qwen3-coder-480b-a35b-instruct/test_normal.jsonnet
+  s_3c3caa49457c55::t_0e0d9af831c5b2 1-59
+experiments/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fac76f4bdf0c20 1-59
+experiments/configs/simplified_react_code_agent/alibaba/qwen3-max-2025-09-23/test_normal.jsonnet
+  s_3c3caa49457c55::t_17c0c40fe14cb5 1-59
+experiments/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_challenge.jsonnet
+  s_3c3caa49457c55::t_248bba3f50a13c 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-3-5-haiku-20241022/test_normal.jsonnet
+  s_3c3caa49457c55::t_36116fc199b09d 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_06436749740fc1 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_55be1c07eeeedc 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_fdf8806af544b0 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-3-7-sonnet-20250219-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_cfbe919e60a317 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_81d3247a7569d3 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-haiku-4-5-20251001-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_d09633f5930ed1 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_919ebe34301c70 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_0ff71dfe4bd6d9 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_2a1c671c1e8ee1 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_dee612a8e28951 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7db451ddae719e 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-opus-4-1-20250805-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_c0338a76a58cee 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c984749745ab1b 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_2cff600475662e 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_faa0936e064091 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-20250514-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_e40ffba2cd29ca 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_52394ad74a7a91 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_a75dbe75049923 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_532e60c7e38693 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_459242587646c0 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_07a72c6cae2471 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_84db7e21efd8b4 1-57
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_31d6ca9f54dc9d 1-56
+experiments/configs/simplified_react_code_agent/anthropic/claude-sonnet-4-5-20250929-no-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_764aeca0b11e45 1-56
+experiments/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c9c296d6f3d8ae 1-59
+experiments/configs/simplified_react_code_agent/cohere/command-a-03-2025/test_normal.jsonnet
+  s_3c3caa49457c55::t_7f5334f3a84de5 1-59
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_e80133e8e1059e 1-58
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-coder-33b-instruct_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_703ac4ee471026 1-58
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_823a5e8670947b 1-57
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-r1-0528_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_0e38a8d4a697d8 1-57
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ef54d8b6022931 1-57
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3-0324_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_e2d50c3c7216b6 1-57
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b76a7ab594433e 1-60
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-with-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_6e7eb573d5aecf 1-60
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_58c662d27d112b 1-59
+experiments/configs/simplified_react_code_agent/deepseek/deepseek-v3.2-terminus-exp-without-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_168cad5e5b31da 1-59
+experiments/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_challenge.jsonnet
+  s_3c3caa49457c55::t_eaf5b6afdf0318 1-56
+experiments/configs/simplified_react_code_agent/google/gemini-2.0-flash/test_normal.jsonnet
+  s_3c3caa49457c55::t_795e03d8e15096 1-56
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_48785b6b0c8fe7 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-flash-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_c6dfd33c4852d1 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_ca1477ac92b93f 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_eebc16e0f47322 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_86334915348548 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_664df801f7a89f 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_f3f65ef39a81d3 1-57
+experiments/configs/simplified_react_code_agent/google/gemini-2.5-pro-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_908ed1dd24a68c 1-57
+experiments/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_challenge.jsonnet
+  s_3c3caa49457c55::t_a60def1ae7ee13 1-58
+experiments/configs/simplified_react_code_agent/meta/llama-3-70b-chat-hf_together/test_normal.jsonnet
+  s_3c3caa49457c55::t_d84f4b85ffc3ca 1-58
+experiments/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b62d2dce672089 1-57
+experiments/configs/simplified_react_code_agent/meta/llama-3.1-70b-instruct_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_41926474974735 1-57
+experiments/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d100c79bcec2aa 1-59
+experiments/configs/simplified_react_code_agent/moonshot/kimi-k2-0905-preview/test_normal.jsonnet
+  s_3c3caa49457c55::t_53428426cdda59 1-59
+experiments/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c569dcb5533f95 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4-turbo-2024-04-09/test_normal.jsonnet
+  s_3c3caa49457c55::t_80d58a67c6747f 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_97d0b69f116f5e 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4.1-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_c4281d0b69f4f8 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_challenge.jsonnet
+  s_3c3caa49457c55::t_cce9d2eb887a79 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4.1-mini-2025-04-14/test_normal.jsonnet
+  s_3c3caa49457c55::t_31ab00354e87c8 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/dev.jsonnet
+  s_3c3caa49457c55::t_5fbcbd2da88d63 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_challenge.jsonnet
+  s_3c3caa49457c55::t_729cef2681dd74 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_2651c4464a0431 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4o-2024-05-13/train.jsonnet
+  s_3c3caa49457c55::t_783ab14a6b46e0 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8a3354aafcc2e0 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-4o-mini-2024-07-18/test_normal.jsonnet
+  s_3c3caa49457c55::t_81af1da380abdd 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_421d370b96bd77 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_fd7ddcfb74f6e8 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_23f202ea407af5 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_1658ec26d69bd9 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6d00c49c0ef60f 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_2efb91f3078f9c 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7358e653ffdeb8 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-2025-08-07-minimal-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_caa17d9ad81710 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c813cc30ab4845 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-mini-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_727883f1f9cbe8 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_c542bf82a218ae 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-5-nano-2025-08-07-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_3cc64d3a342873 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_8baddc77c78bb8 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-oss-120b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_2a329458ad1791 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_challenge.jsonnet
+  s_3c3caa49457c55::t_9394e40c558385 1-57
+experiments/configs/simplified_react_code_agent/openai/gpt-oss-20b-medium-reasoning_openrouter/test_normal.jsonnet
+  s_3c3caa49457c55::t_7105b22a4ba2cb 1-57
+experiments/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_b1b3a9769b7d96 1-57
+experiments/configs/simplified_react_code_agent/openai/o3-2025-04-16-medium-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_c37737a301e422 1-57
+experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_6deb40e1fb17bc 1-57
+experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-high-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_4d681a5dbc1f7f 1-57
+experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7cc79e256a5422 1-57
+experiments/configs/simplified_react_code_agent/openai/o4-mini-2025-04-16-low-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_9eaa3c47e7bfb8 1-57
+experiments/configs/simplified_react_code_agent/xai/grok-4-0709/test_challenge.jsonnet
+  s_3c3caa49457c55::t_4603012fa41e81 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-4-0709/test_normal.jsonnet
+  s_3c3caa49457c55::t_59094978a0a3ea 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_d74255cd46da68 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-4-fast-non-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_9e559f1f9ac71d 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_challenge.jsonnet
+  s_3c3caa49457c55::t_301db39bea6587 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-4-fast-reasoning/test_normal.jsonnet
+  s_3c3caa49457c55::t_b02bb7d0ac4b6a 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_challenge.jsonnet
+  s_3c3caa49457c55::t_33d41745c29f52 1-58
+experiments/configs/simplified_react_code_agent/xai/grok-code-fast-1-0825/test_normal.jsonnet
+  s_3c3caa49457c55::t_78f19d8248c5f1 1-58
+experiments/configs/simplified_react_code_agent/zai/glm-4.5-air/test_challenge.jsonnet
+  s_3c3caa49457c55::t_4b23fb8e2207d7 1-59
+experiments/configs/simplified_react_code_agent/zai/glm-4.5-air/test_normal.jsonnet
+  s_3c3caa49457c55::t_872659ead78743 1-59
+experiments/configs/simplified_react_code_agent/zai/glm-4.5/test_challenge.jsonnet
+  s_3c3caa49457c55::t_7c84159d89eb04 1-59
+experiments/configs/simplified_react_code_agent/zai/glm-4.5/test_normal.jsonnet
+  s_3c3caa49457c55::t_7ebd551eb64e67 1-59
+experiments/configs/simplified_react_code_agent/zai/glm-4.6/test_challenge.jsonnet
+  s_3c3caa49457c55::t_1440afada2edd0 1-59
+experiments/configs/simplified_react_code_agent/zai/glm-4.6/test_normal.jsonnet
+  s_3c3caa49457c55::t_6e97d5bda77fd4 1-59
+experiments/configs/smolagents_code_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_927c24f6cb02f9 1-56
+experiments/configs/smolagents_tool_calling_agent/openai/gpt-4o-2024-05-13/test_normal.jsonnet
+  s_3c3caa49457c55::t_a2bb87933a90ea 1-59
+experiments/create_data_split.py
+  s_3c3caa49457c55::t_77c3cc65e28d06 1-243
+experiments/data_splits/test_challenge_all_task_ids.txt
+  s_3c3caa49457c55::t_99fbf5c82aaa6d 1-417
+experiments/data_splits/test_normal_all_task_ids.txt
+  s_3c3caa49457c55::t_33580236179fb6 1-168
+experiments/data_splits/train_task_ids.txt
+  s_3c3caa49457c55::t_65c95e7be30ac3 1-147
+experiments/data_splits/train_val_split.json
+  s_3c3caa49457c55::t_b76e4fe6ebc711 1-388
+experiments/data_splits/val_all_task_ids.txt
+  s_3c3caa49457c55::t_87b88c1b5656ba 1-200
+experiments/data_splits/val_test_challenge_task_ids.txt
+  s_3c3caa49457c55::t_df14f09dbfd0cd 1-100
+experiments/data_splits/val_test_normal_task_ids.txt
+  s_3c3caa49457c55::t_4da6f20873737d 1-100
+experiments/eval_batch.py
+  s_3c3caa49457c55::t_10bac0e1e18bc7 1-488
+experiments/eval_results.py
+  s_3c3caa49457c55::t_2c1fd9555715fc 1-195
+experiments/list_tasks.py
+  s_3c3caa49457c55::t_4638b9d4a60b11 1-88
+experiments/prompts/api_predictor.txt
+  s_3c3caa49457c55::t_22698ae156fb87 1-21
+experiments/prompts/empty_skill/SKILL.md
+  s_3c3caa49457c55::t_2adab65af4d886 1-4
+experiments/prompts/full_code_agent/_legacy_full_code_instructions.txt
+  s_3c3caa49457c55::t_ca3a794bcadb46 1-63
+experiments/prompts/full_code_agent/full_code_instructions.txt
+  s_3c3caa49457c55::t_9d2a0ffaceff78 1-94
+experiments/prompts/full_code_agent/reflexion_instructions.txt
+  s_3c3caa49457c55::t_ed030a28170e82 1
+experiments/prompts/function_calling_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_83fdc94d91bf09 1-22
+experiments/prompts/function_calling_agent/demos.json
+  s_3c3caa49457c55::t_15e0092221fbeb 1-301
+experiments/prompts/function_calling_agent/instructions.txt
+  s_3c3caa49457c55::t_79dc33a060313d 1-56
+experiments/prompts/pi_code_agent/instructions.txt
+  s_3c3caa49457c55::t_c510b1ebc14247 1-111
+experiments/prompts/plan_execute_code_agent/execute_instructions.txt
+  s_3c3caa49457c55::t_01d02395496db9 1-591
+experiments/prompts/plan_execute_code_agent/plan_instructions.txt
+  s_3c3caa49457c55::t_fe99e537eeabb9 1-57
+experiments/prompts/react_code_agent/_legacy_instructions.txt
+  s_3c3caa49457c55::t_3f467e7bf84135 1-343
+experiments/prompts/react_code_agent/instructions.txt
+  s_3c3caa49457c55::t_9f0d9fe84122ba 1-371
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/SKILL.md
+  s_3c3caa49457c55::t_9eaa6cbf1a6769 1-85
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/account_check.py
+  s_3c3caa49457c55::t_805e76d914e408 1-51
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/dates.py
+  s_3c3caa49457c55::t_1e850b9e79079d 1-40
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/inspect.py
+  s_3c3caa49457c55::t_72bfa4d985d137 1-103
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/keyed_entries.py
+  s_3c3caa49457c55::t_628b68acecf328 1-88
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_0ff9c6c4c4ac83 1-51
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/payment_cards.py
+  s_3c3caa49457c55::t_6a2ea8ce040f89 1-81
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/reimbursement.py
+  s_3c3caa49457c55::t_d52424c00c61f7 1-79
+experiments/prompts/skill_react_code_agent/ds-1slot-with-mara/scripts/relative_dates.py
+  s_3c3caa49457c55::t_e42930cb22e351 1-162
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/SKILL.md
+  s_3c3caa49457c55::t_88be46f2949cc5 1-160
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/accept_reject_requests.md
+  s_3c3caa49457c55::t_f8434955fec091 1-23
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/app_aggregation.md
+  s_3c3caa49457c55::t_c8c74d2e9de174 1-26
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/bill_split_reconciliation.md
+  s_3c3caa49457c55::t_1b6156706f6870 1-21
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/document_content_editing.md
+  s_3c3caa49457c55::t_f478ff49e38a5e 1-23
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/equal_share_receipt_tasks.md
+  s_3c3caa49457c55::t_7340b677c29fcc 1-27
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_aggregation.md
+  s_3c3caa49457c55::t_0276acfabfe9d8 1-21
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_export_tasks.md
+  s_3c3caa49457c55::t_fe868b71aa0362 1-84
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_organization.md
+  s_3c3caa49457c55::t_ba0cded6dbae3c 1-25
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/file_rename_move_tasks.md
+  s_3c3caa49457c55::t_e574bfe7ae2fce 1-30
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/multi_criteria_filtering.md
+  s_3c3caa49457c55::t_99d515772b406b 1-81
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_library_tasks.md
+  s_3c3caa49457c55::t_00749aec511f93 1-78
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/music_player_queue.md
+  s_3c3caa49457c55::t_179854d53ec558 1-26
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/now_playing_tasks.md
+  s_3c3caa49457c55::t_c16e4d097e22f9 1-32
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/people_references.md
+  s_3c3caa49457c55::t_4ccd6d9bd844f4 1-68
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/rating_review_tasks.md
+  s_3c3caa49457c55::t_dcb72fd36e3155 1-22
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/recommendation_feed_tasks.md
+  s_3c3caa49457c55::t_c19be15463975f 1-45
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/record_disambiguation.md
+  s_3c3caa49457c55::t_a2e2e2c1fdad80 1-18
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/refund_tasks.md
+  s_3c3caa49457c55::t_112f1d5685233e 1-24
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/remind_tasks.md
+  s_3c3caa49457c55::t_05fcbe24ea4eea 1-24
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/reply_tasks.md
+  s_3c3caa49457c55::t_64659202057054 1-45
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/send_money_tasks.md
+  s_3c3caa49457c55::t_f2c2899762ea85 1-62
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_collection_assembly.md
+  s_3c3caa49457c55::t_a97a57aeab8789 1-37
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/superlative_selection.md
+  s_3c3caa49457c55::t_9eb21fc3800216 1-58
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/references/time_arithmetic.md
+  s_3c3caa49457c55::t_084742f54852ce 1-24
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/file_bucket.py
+  s_3c3caa49457c55::t_36a2d884130392 1-38
+experiments/prompts/skill_react_code_agent/ds-2slots-with-mara/scripts/pagination.py
+  s_3c3caa49457c55::t_efee88e5e1a54b 1-56
+experiments/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/SKILL.md
+  s_3c3caa49457c55::t_0af0de2d6df939 1-116
+experiments/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/references/pagination.md
+  s_3c3caa49457c55::t_0f7030037717c5 1-54
+experiments/prompts/skill_react_code_agent/glm-skill-wo-top-n-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_102488d0d1884d 1-39
+experiments/prompts/skill_react_code_agent/only-skillmd/SKILL.md
+  s_3c3caa49457c55::t_fd7bdc61e5c3bb 1-161
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/SKILL.md
+  s_3c3caa49457c55::t_63425aae111b07 1-340
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/complete_task.md
+  s_3c3caa49457c55::t_b7e5f1e1c95b03 1-92
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/credentials.md
+  s_3c3caa49457c55::t_f9b53221c9d637 1-100
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/pagination.md
+  s_3c3caa49457c55::t_9c0ae94a63993a 1-264
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/references/search_pattern.md
+  s_3c3caa49457c55::t_c860c1f16f70cf 1-721
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/scripts/pagination.py
+  s_3c3caa49457c55::t_f6110b5b259c39 1-52
+experiments/prompts/skill_react_code_agent/qwen-skill-40h/scripts/relationship_filter.py
+  s_3c3caa49457c55::t_c49c38370af4f2 1-57
+experiments/prompts/skill_react_code_agent/skill/SKILL.md
+  s_3c3caa49457c55::t_f54924f4e46fcb 1-75
+experiments/prompts/skill_react_code_agent/skill/references/action-verification.md
+  s_3c3caa49457c55::t_7067ab4659d680 1-54
+experiments/prompts/skill_react_code_agent/skill/references/api-discovery.md
+  s_3c3caa49457c55::t_88ee1dce28488e 1-34
+experiments/prompts/skill_react_code_agent/skill/references/pagination.md
+  s_3c3caa49457c55::t_07ad080fbc240e 1-74
+experiments/prompts/skill_react_code_agent/skill/references/workflows.md
+  s_3c3caa49457c55::t_c9a32ed5eaa360 1-49
+experiments/prompts/skill_react_code_agent/skill2/SKILL.md
+  s_3c3caa49457c55::t_16afbc905b207f 1-79
+experiments/prompts/skill_react_code_agent/skill2/references/file_system.md
+  s_3c3caa49457c55::t_785166c56a4267 1-122
+experiments/prompts/skill_react_code_agent/skill2/references/pagination.md
+  s_3c3caa49457c55::t_fc93a6f7dcee32 1-49
+experiments/prompts/skill_react_code_agent/skill2/references/question_patterns.md
+  s_3c3caa49457c55::t_6339445c478a9b 1-112
+experiments/prompts/skill_react_code_agent/skill2/scripts/helpers.py
+  s_3c3caa49457c55::t_37bd23a3d9df73 1-76
+experiments/prompts/skill_react_code_agent/skill2/scripts/pagination.py
+  s_3c3caa49457c55::t_4091abcde314fb 1-91
+experiments/prompts/smolagents/code_instructions.yaml
+  s_3c3caa49457c55::t_5c7510fda7c541 1-208
+experiments/prompts/smolagents/task_completer_instructions.txt
+  s_3c3caa49457c55::t_27ddd1e12a986e 1-59
+experiments/prompts/smolagents/tool_calling_instructions.yaml
+  s_3c3caa49457c55::t_9812996d918af1 1-186
+experiments/pyproject.toml
+  s_3c3caa49457c55::t_b874a53a854ec7 1-118
+experiments/run_all_glm5.py
+  s_3c3caa49457c55::t_5fe4697514cbb7 1-279
+experiments/run_batch.py
+  s_3c3caa49457c55::t_c3d3d2de52c5f5 1-556
+experiments/run_full.py
+  s_3c3caa49457c55::t_ffd5ca0e09c2bb 1-315
+experiments/run_full_test.py
+  s_3c3caa49457c55::t_28e31d206101b8 1-158
+generate/.source/data.bundle
+  s_3c3caa49457c55::t_eea784a61e978f 1-3
+generate/.source/tasks.bundle
+  s_3c3caa49457c55::t_8822a8b50c0c6b 1-3
+generate/code/api_docs.py
+  s_3c3caa49457c55::t_3d6a12580ebb20 1-191
+generate/code/app_design.py
+  s_3c3caa49457c55::t_c7004c867056b0 1-184
+generate/code/app_starter.py
+  s_3c3caa49457c55::t_f3abdebb61f530 1-961
+generate/code/factories.py
+  s_3c3caa49457c55::t_d2eaef2a84b27d 1-145
+generate/code/lib.py
+  s_3c3caa49457c55::t_84333554ccf3e3 1-1037
+generate/code/response_docstrings.py
+  s_3c3caa49457c55::t_d8b403eaa0847f 1-78
+generate/code/solution_transformation.py
+  s_3c3caa49457c55::t_3995692f49cb1d 1-1344
+generate/code/task_generator_docstring.py
+  s_3c3caa49457c55::t_1c34dd4f90009b 1-125
+generate/code/tutorial.py
+  s_3c3caa49457c55::t_e59700051ab4e3 1-1712
+generate/code/type_hints.py
+  s_3c3caa49457c55::t_83a47c8cb11b00 1-402
+generate/images/all.py
+  s_3c3caa49457c55::t_69381df23c81c8 1-119
+generate/images/compressed.py
+  s_3c3caa49457c55::t_05a366a17ff9dd 1-70
+generate/images/lib.py
+  s_3c3caa49457c55::t_3be79dccf226ba 1-86
+generate/tasks/auto_review_task_generator.py
+  s_3c3caa49457c55::t_0f37da6efeeb2a 1-298
+generate/tasks/generate_and_validate_tasks.py
+  s_3c3caa49457c55::t_e2c172b8a25245 1-493
+guides/developing_new_apps.md
+  s_3c3caa49457c55::t_cdd39038df6e56 1-1429
+guides/developing_new_task_generators.md
+  s_3c3caa49457c55::t_1b9c84b299ea1b 1-1190
+guides/evaluating_terminal_agents.md
+  s_3c3caa49457c55::t_c00ff1db17a179 1-199
+guides/generating_base_database_and_tasks.md
+  s_3c3caa49457c55::t_841cede200f17f 1-57
+guides/parallelizing_worlds.md
+  s_3c3caa49457c55::t_5ccf4a8d1700f0 1-500
+images/banner-dark.svg
+  s_3c3caa49457c55::t_cfa62dbf46cdb5 1-3
+images/banner-light.svg
+  s_3c3caa49457c55::t_47402ea1a53cff 1-3
+notebooks/interactive_shell.ipynb
+  s_3c3caa49457c55::t_b5a850d5daba8f 1-73
+notebooks/minimal_agent.ipynb
+  s_3c3caa49457c55::t_db496a1df2a391 1-367
+pyproject.toml
+  s_3c3caa49457c55::t_b39293856ab7a3 1-293
+pyrightconfig.json
+  s_3c3caa49457c55::t_a605e33018e504 1-4
+pytest.ini
+  s_3c3caa49457c55::t_441d71e6b475d9 1-10
+scripts/appworld_to_hal_leaderboard.py
+  s_3c3caa49457c55::t_a724903bc719d1 1-246
+scripts/beaker_ops.py
+  s_3c3caa49457c55::t_6acd7a3570f006 1-125
+scripts/build_image.py
+  s_3c3caa49457c55::t_3e7fec8a93c961 1-73
+scripts/bundle.py
+  s_3c3caa49457c55::t_06c625ca47c672 1-136
+scripts/call_mcp_server.py
+  s_3c3caa49457c55::t_24e3a24091d9db 1-60
+scripts/check_and_fix_broken_links.py
+  s_3c3caa49457c55::t_c91ca166444268 1-168
+scripts/clone_pr.py
+  s_3c3caa49457c55::t_a5c37d7695c98a 1-202
+scripts/compile_results.py
+  s_3c3caa49457c55::t_0bbc70714f3bfe 1-226
+scripts/create_base_task.py
+  s_3c3caa49457c55::t_d152c8240e0f01 1-112
+scripts/diff_api_docs.py
+  s_3c3caa49457c55::t_70651634fcb0bc 1-167
+scripts/dump_beaker_metrics.py
+  s_3c3caa49457c55::t_f2e9cb95b3e235 1-25
+scripts/generate_mcp_config.py
+  s_3c3caa49457c55::t_67930f91d5da6c 1-85
+scripts/index_dbs.py
+  s_3c3caa49457c55::t_0ae4e85c0b91e8 1-51
+scripts/legacy_to_simplified_configs.py
+  s_3c3caa49457c55::t_32d99cbc8e7e31 1-332
+scripts/migrate_data.py
+  s_3c3caa49457c55::t_c3070453ef2f0b 1-386
+scripts/pack_source_bundles.py
+  s_3c3caa49457c55::t_a4677606edb1d6 1-79
+scripts/play_with.py
+  s_3c3caa49457c55::t_052068e6daeafc 1-103
+scripts/plot_scores_by_distribution.py
+  s_3c3caa49457c55::t_8a21f76180ef22 1-225
+scripts/print_experiment_usage.py
+  s_3c3caa49457c55::t_4df0e8c279eb08 1-18
+scripts/print_model_costs.py
+  s_3c3caa49457c55::t_68b4ce12478269 1-40
+scripts/print_model_relationships.py
+  s_3c3caa49457c55::t_ebaa51df16c014 1-123
+scripts/print_providers_model_ids.py
+  s_3c3caa49457c55::t_cdf613e69ecb33 1-49
+scripts/pull_from_remote.py
+  s_3c3caa49457c55::t_0d0e8b0adfe579 1-230
+scripts/release_data.py
+  s_3c3caa49457c55::t_eb84c6b7608f47 1-327
+scripts/release_experiment_outputs.py
+  s_3c3caa49457c55::t_03cd4428610d78 1-193
+scripts/rename_configs.py
+  s_3c3caa49457c55::t_a3cdab63efd4bf 1-35
+scripts/rename_prompts_in_configs.py
+  s_3c3caa49457c55::t_f1c01f57781737 1-52
+scripts/run_beaker.py
+  s_3c3caa49457c55::t_aa491e71026d6d 1-789
+scripts/run_via_hal.py
+  s_3c3caa49457c55::t_2e56717dc0538a 1-193
+scripts/score_by_interaction_limits.py
+  s_3c3caa49457c55::t_95464f399f79ab 1-132
+scripts/show_api_test_code.py
+  s_3c3caa49457c55::t_bda9684a2f2569 1-32
+scripts/show_bundle.py
+  s_3c3caa49457c55::t_bddbe7d497c2a6 1-18
+scripts/spot_check_experiment_logs.py
+  s_3c3caa49457c55::t_f54d9765378158 1-313
+scripts/update_appworld_leaderboard.py
+  s_3c3caa49457c55::t_2f13659a60828d 1-149
+scripts/update_experiment_options_readme.py
+  s_3c3caa49457c55::t_54f3c0d7e18711 1-21
+scripts/update_hal_leaderboard.py
+  s_3c3caa49457c55::t_93fded4d5bd38b 1-46
+scripts/verify_package_versions.py
+  s_3c3caa49457c55::t_19ee38945ff630 1-11
+src/appworld/.source/apps.bundle
+  s_3c3caa49457c55::t_135cef9a0926a1 1-3
+src/appworld/.source/tests.bundle
+  s_3c3caa49457c55::t_7b92f04cad0a19 1-3
+src/appworld/__init__.py
+  s_3c3caa49457c55::t_5b45d5c65865e2 1-66
+src/appworld/api_docs.py
+  s_3c3caa49457c55::t_233e84c66742fd 1-737
+src/appworld/apps/__init__.py
+  s_3c3caa49457c55::t_89b10ffef8552b 1-569
+src/appworld/apps/lib/apis/authentication.py
+  s_3c3caa49457c55::t_8143fa153e0502 1-631
+src/appworld/apps/lib/apis/callers.py
+  s_3c3caa49457c55::t_397dc0b4cb84ca 1-408
+src/appworld/apps/lib/apis/datetime.py
+  s_3c3caa49457c55::t_f306e0b087f1a1 1-65
+src/appworld/apps/lib/apis/local_remote.py
+  s_3c3caa49457c55::t_4368c18431a18f 1-295
+src/appworld/apps/lib/apis/pagination.py
+  s_3c3caa49457c55::t_4dc343f4dfa8b4 1-69
+src/appworld/apps/lib/factories/__init__.py
+  s_3c3caa49457c55::t_65b8187e49b563 1-64
+src/appworld/apps/lib/models/db.py
+  s_3c3caa49457c55::t_8decaaaebb6c85 1-536
+src/appworld/apps/lib/models/filter_sort.py
+  s_3c3caa49457c55::t_828bd08a7bd3c5 1-306
+src/appworld/apps/lib/models/orm.py
+  s_3c3caa49457c55::t_bacf7728b678b1 1-1976
+src/appworld/apps/lib/models/users.py
+  s_3c3caa49457c55::t_27c1e6ee636fbc 1-41
+src/appworld/apps/lib/responses/__init__.py
+  s_3c3caa49457c55::t_6d5e38d1ecc280 1-77
+src/appworld/cli.py
+  s_3c3caa49457c55::t_1c059d33c40beb 1-2367
+src/appworld/collections/api_docs.py
+  s_3c3caa49457c55::t_63c7a610f35daa 1-368
+src/appworld/collections/api_docs.pyi
+  s_3c3caa49457c55::t_cd83d1440d219d 1-1000
+src/appworld/collections/apis.py
+  s_3c3caa49457c55::t_9a768c21a446e9 1-211
+src/appworld/collections/apis.pyi
+  s_3c3caa49457c55::t_f9b5b9d15020ff 1-3049
+src/appworld/collections/models.py
+  s_3c3caa49457c55::t_077cc307cdd7ef 1-571
+src/appworld/collections/models.pyi
+  s_3c3caa49457c55::t_dbb382799569ab 1-204
+src/appworld/common/background_server.py
+  s_3c3caa49457c55::t_943c16d95a4a4a 1-295
+src/appworld/common/code_parsing.py
+  s_3c3caa49457c55::t_fab24ddd4e90f6 1-753
+src/appworld/common/code_tools.py
+  s_3c3caa49457c55::t_d16bc8ecf9624f 1-160
+src/appworld/common/collections.py
+  s_3c3caa49457c55::t_6666f3850be699 1-632
+src/appworld/common/constants.py
+  s_3c3caa49457c55::t_feae5d02bde7c3 1-54
+src/appworld/common/copy.py
+  s_3c3caa49457c55::t_061861f4eb2ceb 1-11
+src/appworld/common/crypto.py
+  s_3c3caa49457c55::t_c53696ab5b63e2 1-318
+src/appworld/common/database.py
+  s_3c3caa49457c55::t_5632e8677c4ea1 1-58
+src/appworld/common/datetime.py
+  s_3c3caa49457c55::t_98c1accea48a74 1-793
+src/appworld/common/errors.py
+  s_3c3caa49457c55::t_35511516d9bffc 1-143
+src/appworld/common/evaluation.py
+  s_3c3caa49457c55::t_07cf731e7e5cb8 1-370
+src/appworld/common/finders.py
+  s_3c3caa49457c55::t_5fccf662cde55a 1-1166
+src/appworld/common/hashing.py
+  s_3c3caa49457c55::t_1408942a91fafc 1-48
+src/appworld/common/imports.py
+  s_3c3caa49457c55::t_789588dbaee91f 1-92
+src/appworld/common/inspect.py
+  s_3c3caa49457c55::t_9666b43ba2145b 1-218
+src/appworld/common/io.py
+  s_3c3caa49457c55::t_2daf5d211b74e0 1-442
+src/appworld/common/math.py
+  s_3c3caa49457c55::t_d33bbbcfe62597 1-202
+src/appworld/common/misc.py
+  s_3c3caa49457c55::t_87ed2341c4ca53 1-133
+src/appworld/common/naming.py
+  s_3c3caa49457c55::t_d4e3a054be49a5 1-36
+src/appworld/common/path_store.py
+  s_3c3caa49457c55::t_105913471e7ae3 1-95
+src/appworld/common/plotting.py
+  s_3c3caa49457c55::t_21380879aa5bf9 1-337
+src/appworld/common/printer.py
+  s_3c3caa49457c55::t_ada8736c870fd7 1-116
+src/appworld/common/prompts.py
+  s_3c3caa49457c55::t_8b18491d144e9f 1-163
+src/appworld/common/random.py
+  s_3c3caa49457c55::t_5f83883f1aaeb0 1-248
+src/appworld/common/registrable.py
+  s_3c3caa49457c55::t_23ba7eab49fdb5 1-208
+src/appworld/common/safety_guard.py
+  s_3c3caa49457c55::t_335c6691962e8b 1-402
+src/appworld/common/system.py
+  s_3c3caa49457c55::t_7e5ac769c9a09c 1-194
+src/appworld/common/temp.py
+  s_3c3caa49457c55::t_f7ff2bbb3a1cda 1-37
+src/appworld/common/text.py
+  s_3c3caa49457c55::t_4d48778c6db8a7 1-122
+src/appworld/common/time.py
+  s_3c3caa49457c55::t_bd5e912636b460 1-175
+src/appworld/common/types.py
+  s_3c3caa49457c55::t_082cf64eeb2c31 1-130
+src/appworld/common/unique_caller.py
+  s_3c3caa49457c55::t_930c3246ccac6f 1-23
+src/appworld/common/utils.py
+  s_3c3caa49457c55::t_e276f506b38681 1-34
+src/appworld/download.py
+  s_3c3caa49457c55::t_58047d8cb11e86 1-136
+src/appworld/environment.py
+  s_3c3caa49457c55::t_f6f3e898ed2112 1-1413
+src/appworld/evaluator.py
+  s_3c3caa49457c55::t_cdaf3aa91e9886 1-645
+src/appworld/ground_truth.py
+  s_3c3caa49457c55::t_7a10ed96ce2d3c 1-502
+src/appworld/install.py
+  s_3c3caa49457c55::t_0a383df38be34b 1-107
+src/appworld/leaderboard.py
+  s_3c3caa49457c55::t_13afbc71048f3e 1-311
+src/appworld/py.typed
+  s_3c3caa49457c55::t_6535e29fb9fb36 1
+src/appworld/requester.py
+  s_3c3caa49457c55::t_cf69aa69de0886 1-954
+src/appworld/serve/_apis.py
+  s_3c3caa49457c55::t_eec080b665e7d2 1-33
+src/appworld/serve/_mcp.py
+  s_3c3caa49457c55::t_12fe60e7a164fa 1-465
+src/appworld/serve/apis.py
+  s_3c3caa49457c55::t_4daf4ae2de770a 1-73
+src/appworld/serve/environment.py
+  s_3c3caa49457c55::t_54f4e57778fa43 1-310
+src/appworld/serve/playground.html
+  s_3c3caa49457c55::t_19a0108e0e034b 1-761
+src/appworld/serve/uis.py
+  s_3c3caa49457c55::t_f74a25761dd3a5 1-66
+src/appworld/task.py
+  s_3c3caa49457c55::t_48fef2bb1ad502 1-335
+src/appworld/verify.py
+  s_3c3caa49457c55::t_e1d32e0f0ec7c1 1-218
+tasks/task.md
+  s_3c3caa49457c55::t_9894bcdc775e14 1-22
+tests/experiments/patches/v0.1.0.patch
+  s_3c3caa49457c55::t_4a2f9427a05539 1-58
+tests/experiments/patches/v0.1.1.patch
+  s_3c3caa49457c55::t_4bed023422d322 1-58
+tests/experiments/patches/v0.1.2.patch
+  s_3c3caa49457c55::t_5d4e91c8a293de 1-58
+tests/experiments/patches/v0.1.3.patch
+  s_3c3caa49457c55::t_3c20b04b21d524 1-58
+tests/experiments/report.md
+  s_3c3caa49457c55::t_7ed6c9573a028a 1-25
+tests/experiments/run.sh
+  s_3c3caa49457c55::t_5257e9a654e0f1 1-76
+tests/experiments/test_usage_tracker.py
+  s_3c3caa49457c55::t_0ca75af12e7aa2 1-947
+tests/lib.py
+  s_3c3caa49457c55::t_e9d6175be9807e 1-1437
+tests/package/common/test_background_server.py
+  s_3c3caa49457c55::t_ab7a17ea37679b 1-357
+tests/package/common/test_code_parsing.py
+  s_3c3caa49457c55::t_d223cf8e14e5bd 1-529
+tests/package/common/test_code_tools.py
+  s_3c3caa49457c55::t_27239d16122d2b 1-81
+tests/package/common/test_collections.py
+  s_3c3caa49457c55::t_1c49ef2069b6ae 1-252
+tests/package/common/test_crypto.py
+  s_3c3caa49457c55::t_18c58c7b207cd1 1-148
+tests/package/common/test_database.py
+  s_3c3caa49457c55::t_a1d5bf89b426a3 1-9
+tests/package/common/test_datetime.py
+  s_3c3caa49457c55::t_51ad6ac0e4ed43 1-60
+tests/package/common/test_errors.py
+  s_3c3caa49457c55::t_e79640c958fa96 1-30
+tests/package/common/test_evaluation.py
+  s_3c3caa49457c55::t_5dfa97d710c5cb 1-154
+tests/package/common/test_finders.py
+  s_3c3caa49457c55::t_5ea0d3ced3004c 1-20
+tests/package/common/test_io.py
+  s_3c3caa49457c55::t_6fab68567231ca 1-33
+tests/package/common/test_math.py
+  s_3c3caa49457c55::t_391086d237d9ca 1-11
+tests/package/common/test_misc.py
+  s_3c3caa49457c55::t_d8d65e496203ca 1-60
+tests/package/common/test_prompts.py
+  s_3c3caa49457c55::t_bf04c5fa0f7bd3 1-148
+tests/package/common/test_random.py
+  s_3c3caa49457c55::t_ce5ad2b52c2c56 1-177
+tests/package/common/test_system.py
+  s_3c3caa49457c55::t_bbdb4c1275a74a 1-30
+tests/package/common/test_time.py
+  s_3c3caa49457c55::t_ebe9aaaa711f13 1-39
+tests/package/test_appworld.py
+  s_3c3caa49457c55::t_9edc0c366fcf15 1-1497
+tests/package/test_factories.py
+  s_3c3caa49457c55::t_a05dead2d305cd 1-13
+tests/package/test_load_task_ids.py
+  s_3c3caa49457c55::t_bc54adadcc3f7c 1-75
+tests/package/test_model_collection.py
+  s_3c3caa49457c55::t_93147999338681 1-53
+tests/package/test_model_relationships.py
+  s_3c3caa49457c55::t_a2d94924d493ab 1-105
+tests/package/test_prepare_api_docs.py
+  s_3c3caa49457c55::t_08606717a6286f 1-376
+tests/package/test_responses.py
+  s_3c3caa49457c55::t_c93f313c3a29b6 1-41
+tests/package/test_safety_guard.py
+  s_3c3caa49457c55::t_d79922424d9e34 1-420
+tests/package/test_sqlite_fts.py
+  s_3c3caa49457c55::t_0a1d9a0e3029cb 1-175
+tests/package/test_sqlmodel.py
+  s_3c3caa49457c55::t_8454734f028a7b 1-1433
+verify_tokens.py
+  s_3c3caa49457c55::t_878b216a3aa37a 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2966b838ad94c5247afd544c436b4fdad0bfa564",
+  "prompts": {},
+  "sessions": {
+    "s_3c3caa49457c55": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "9f10b853-3633-43c6-b068-f844a8a90ab4",
+        "model": "glink/Kimi-K3:glink_domestic"
+      },
+      "human_author": "断岳 <lyuyubin.lyb@antgroup.com>"
+    }
+  }
+}
