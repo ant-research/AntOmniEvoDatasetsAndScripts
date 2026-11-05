@@ -1,0 +1,53 @@
+local experiment_prompts_path = std.extVar("APPWORLD_EXPERIMENT_PROMPTS_PATH");
+local experiment_configs_path = std.extVar("APPWORLD_EXPERIMENT_CONFIGS_PATH");
+local experiment_code_path = std.extVar("APPWORLD_EXPERIMENT_CODE_PATH");
+{
+    "type": "simplified",
+    "config": {
+        "agent": {
+            "type": "simplified_pi_code_agent",
+            "model_config": {
+                "name": "{{model_info.model_id}}",
+                "retry_after_n_seconds": 15,
+                "max_retries": 100,
+            },
+            "appworld_config": {
+                "random_seed": 100,
+                "raise_on_extra_parameters": true,
+            },
+            "logger_config": {
+                "color": true,
+                "verbose": true,
+            },
+            "usage_tracker_config": {
+                "max_cost_overall": 1000,
+                "max_cost_per_task": 10,
+                "max_output_tokens_per_task": 100000,
+            },
+            "prompt_file_path": experiment_prompts_path + "/pi_code_agent/instructions.txt",
+            "pi_model": "{{model_info.model_id}}",
+            "pi_provider": "{{model_info.provider}}",
+            "pi_timeout": 300,
+            "pi_max_turns": 50,
+            "ignore_multiple_calls": true,
+            "max_prompt_length": null,
+            "max_steps": 50,
+            "log_lm_calls": true,
+            "skip_if_finished": true,
+        },
+        "dataset": "{{dataset_name}}",
+    },
+    "metadata": {
+        "model": {
+            "file_name": "{{model_info.model_name}}",
+            "humanized_name": "{{model_info.humanized_model_name}}",
+            "precise_name": "{{model_info.model_id}}",
+            "creator": "{{model_info.creator}}",
+            "provider": "{{model_info.provider}}",
+        },
+        "agent": {
+            "file_name": "{{agent_info.agent_name}}",
+            "humanized_name": "{{agent_info.agent_humanized_name}}",
+        },
+    },
+}

@@ -1,0 +1,3 @@
+{"query_id": "Q1", "query": "vitamin c common cold", "golden_doc_ids": ["DOC1"]}
+{"query_id": "Q2", "query": "aspirin cardiovascular prevention", "golden_doc_ids": ["DOC3"]}
+{"query_id": "Q3", "query": "vitamin d bone fractures", "golden_doc_ids": ["DOC5"]}

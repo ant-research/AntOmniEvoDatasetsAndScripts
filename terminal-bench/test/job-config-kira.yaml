@@ -1,0 +1,143 @@
+# Harbor Job Configuration — Terminal-Bench 2 with the Terminus-KIRA agent.
+#
+# KIRA (AgentHarness(Terminus2)) uses native tool-calling via litellm — it does
+# NOT install/run the PI CLI, so it needs no PI extensions, no /pi-config, and
+# no pi-coding-agent install. It runs Terminus2's tmux session + litellm.
+#
+# Skill is mounted at /skill and read host-side by Terminus2._build_skills_section
+# (no install-time copy like Pi). agent code lives in spec/kira/agent/ and is
+# loaded via import_path; mutate it there to evolve the agent.
+#
+# Run:
+#   .venv/bin/generate -c test/job-config-kira.yaml \
+#     --spec-dir spec/kira -m anthropic/glm-5 -i <task> -n 1 -l 1 --force-build
+
+# ============================================================
+# Job basics
+# ============================================================
+job_name: null
+jobs_dir: "jobs"
+n_attempts: 1
+timeout_multiplier: 1.0
+agent_timeout_multiplier: null
+verifier_timeout_multiplier: null
+# KIRA needs no PI install (no apt+node+npm), so the default setup deadline is
+# plenty. Lower than Pi's 3.0x.
+agent_setup_timeout_multiplier: null
+environment_build_timeout_multiplier: null
+n_concurrent_trials: 4
+quiet: false
+debug: false
+
+# ============================================================
+# Retry
+# ============================================================
+retry:
+  max_retries: 3
+  include_exceptions: null
+  exclude_exceptions:
+    - "AgentTimeoutError"
+    - "VerifierTimeoutError"
+    - "RewardFileNotFoundError"
+    - "RewardFileEmptyError"
+    - "VerifierOutputParseError"
+  wait_multiplier: 2.0
+  min_wait_sec: 1.0
+  max_wait_sec: 60.0
+
+# ============================================================
+# Agent — Terminus-KIRA (Terminus2 + native tool calling)
+# ============================================================
+agents:
+  - name: null
+    # KIRA agent code, co-located with the spec under spec/kira/agent/.
+    # Mutating these files IS mutating the agent (proposer target).
+    import_path: "spec.kira.agent.kira_agent:AgentHarness"
+
+    # litellm model id. `anthropic/glm-5` routes through litellm's anthropic
+    # adapter (sends /v1/messages); litellm strips the leading `anthropic/`
+    # and forwards bare `glm-5` to the REMOTE antchat gateway
+    # (antchat.alipay.com — the one in config/config.yaml). The remote gateway
+    # rejects the `antchat/` provider segment with 401 "服务未授权", so the
+    # bare name is REQUIRED on the remote gateway. (The LOCAL 9207/9311
+    # gateway is the opposite — it wants `antchat/` and 422s the bare name.)
+    model_name: "glm-5"
+
+    override_timeout_sec: null
+    override_setup_timeout_sec: null
+    max_timeout_sec: null
+
+    kwargs:
+      # antchat gateway base URL — Terminus2._init_llm passes this to LiteLLM.
+      # Resolved from env at run time.
+      api_base: "${OPENAI_BASE_URL}"
+      # skill dir mounted at /skill (read host-side by _build_skills_section).
+      skills_dir: "/skill"
+      # KIRA uses native tool-calling; keep enough output room for analysis+plan+commands.
+      # Override via -m/CLI if a task needs more turns.
+      # max_turns: 1000000
+
+    # litellm reads ANTHROPIC_API_KEY directly; BASE_URL also passed via api_base above.
+    env:
+      OPENAI_API_KEY: "${OPENAI_API_KEY:-}"
+      OPENAI_BASE_URL: "${OPENAI_BASE_URL:-}"
+
+# ============================================================
+# Dataset
+# ============================================================
+datasets:
+  - path: "../dataset2.1"
+    name: null
+    version: null
+    ref: null
+    registry_url: null
+    registry_path: null
+    overwrite: false
+    download_dir: null
+    task_names: null
+    exclude_task_names: null
+    n_tasks: null
+
+tasks: []
+
+# ============================================================
+# Environment — KIRA only needs /skill (no /extension, no /pi-config)
+# ============================================================
+environment:
+  type: null
+  import_path: null
+  force_build: false
+  delete: true
+  override_cpus: null
+  override_memory_mb: null
+  override_storage_mb: null
+  override_gpus: null
+  suppress_override_warnings: false
+
+  # NOTE: generate.py --spec-dir rewrites the /skill mount source to
+  # <spec_dir>/skill and drops a missing /extension. KIRA has no extension,
+  # so only /skill is mounted (added by --spec-dir rewrite). Keep a placeholder
+  # /skill entry here so `_rewrite_config_for_spec` finds and rewrites it.
+  mounts:
+    - type: "bind"
+      source: "../skill"
+      target: "/skill"
+      read_only: true
+
+  env: {}
+  kwargs: {}
+
+# ============================================================
+# Verifier
+# ============================================================
+verifier:
+  override_timeout_sec: null
+  max_timeout_sec: null
+  env: {}
+  disable: false
+
+# ============================================================
+# Artifacts / metrics
+# ============================================================
+artifacts: []
+metrics: []

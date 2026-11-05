@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "description": "Hybrid recall + rerank + LinearRAG graph rescore: BM25 + dense recall -> rerank -> graph_rescore (PPR importance fused with rerank) -> truncate.",
+  "dag": [
+    {
+      "id": "recall_b",
+      "type": "recall_bm25",
+      "enabled": true,
+      "params": {
+        "k": 10
+      }
+    },
+    {
+      "id": "recall_d",
+      "type": "recall_dense",
+      "enabled": true,
+      "params": {
+        "k": 10,
+        "model": "bge_m3"
+      }
+    },
+    {
+      "id": "rerank",
+      "type": "rerank_cross",
+      "enabled": true,
+      "params": {
+        "top_m": 100,
+        "model": "bge-reranker-v2-m3"
+      }
+    },
+    {
+      "id": "rescore",
+      "type": "graph_rescore",
+      "enabled": true,
+      "params": {
+        "alpha": 0.3
+      }
+    },
+    {
+      "id": "truncate",
+      "type": "truncate",
+      "enabled": true,
+      "params": {
+        "k": 10
+      }
+    }
+  ]
+}

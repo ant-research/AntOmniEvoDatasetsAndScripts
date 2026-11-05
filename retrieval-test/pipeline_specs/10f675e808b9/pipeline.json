@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "description": "Hybrid recall + graph expand + rerank(auto-rewrite for long queries) + LinearRAG graph rescore: query_rewrite -> BM25(dual-query) + dense(rewrite) -> fuse_rrf -> graph_expand(max_expand=10) -> rerank(top_m=30, auto_rewritten_dense) -> graph_rescore(critical-mass guard) -> truncate.",
+  "dag": [
+    {
+      "id": "rewrite",
+      "type": "query_rewrite",
+      "enabled": true,
+      "params": {
+        "mode": "llm",
+        "prompt_file": "rewrite",
+        "model": "GLM-5.2",
+        "max_tokens": 128,
+        "temperature": 0.0
+      }
+    },
+    {
+      "id": "recall_b",
+      "type": "recall_bm25",
+      "enabled": true,
+      "params": {
+        "k": 30,
+        "use_rewritten": true
+      }
+    },
+    {
+      "id": "recall_d",
+      "type": "recall_dense",
+      "enabled": true,
+      "params": {
+        "k": 30,
+        "model": "bge_m3",
+        "use_rewritten": true,
+        "use_dual_query": true
+      }
+    },
+    {
+      "id": "fuse",
+      "type": "fuse_rrf",
+      "enabled": true,
+      "params": {
+        "rrf_k": 60
+      }
+    },
+    {
+      "id": "graph_expand",
+      "type": "graph_expand",
+      "enabled": true,
+      "params": {
+        "top_n": 40,
+        "min_entity_overlap": 1,
+        "max_expand_per_group": 10
+      }
+    },
+    {
+      "id": "rerank",
+      "type": "rerank_cross",
+      "enabled": true,
+      "params": {
+        "top_m": 30,
+        "model": "bge-reranker-v2-m3",
+        "use_rewritten": false
+      }
+    },
+    {
+      "id": "rescore",
+      "type": "graph_rescore",
+      "enabled": true,
+      "params": {
+        "alpha": 0.2
+      }
+    },
+    {
+      "id": "truncate",
+      "type": "truncate",
+      "enabled": true,
+      "params": {
+        "k": 30
+      }
+    }
+  ]
+}

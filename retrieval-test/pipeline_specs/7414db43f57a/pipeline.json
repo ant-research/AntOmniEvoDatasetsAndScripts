@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "description": "Query rewrite + hybrid recall + RRF fusion + rerank + LinearRAG graph rescore + truncate. LLM rewrites multi-hop queries before dual-route recall; RRF normalizes per-route scores before cross-encoder reranking.",
+  "dag": [
+    {
+      "id": "rewrite",
+      "type": "query_rewrite",
+      "enabled": true,
+      "params": {
+        "mode": "llm",
+        "model": "GLM-5.2",
+        "prompt_file": "rewrite",
+        "max_tokens": 512,
+        "temperature": 0.0
+      }
+    },
+    {
+      "id": "recall_b",
+      "type": "recall_bm25",
+      "enabled": true,
+      "params": {
+        "k": 30,
+        "use_rewritten": true
+      }
+    },
+    {
+      "id": "recall_d",
+      "type": "recall_dense",
+      "enabled": true,
+      "params": {
+        "k": 30,
+        "model": "bge_m3",
+        "use_rewritten": true
+      }
+    },
+    {
+      "id": "fuse",
+      "type": "fuse_rrf",
+      "enabled": true,
+      "params": {
+        "rrf_k": 60
+      }
+    },
+    {
+      "id": "rerank",
+      "type": "rerank_cross",
+      "enabled": true,
+      "params": {
+        "top_m": 25,
+        "model": "bge-reranker-v2-m3",
+        "use_rewritten": true,
+        "floor_n": 5
+      }
+    },
+    {
+      "id": "rescore",
+      "type": "graph_rescore",
+      "enabled": true,
+      "params": {
+        "alpha": 0.3,
+        "use_rewritten": true
+      }
+    },
+    {
+      "id": "truncate",
+      "type": "truncate",
+      "enabled": true,
+      "params": {
+        "k": 30
+      }
+    }
+  ]
+}

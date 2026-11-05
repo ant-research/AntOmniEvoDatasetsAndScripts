@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/bin/python -c \"from appworld import load_task_ids; ids=load_task_ids\\('test_normal'\\); print\\(len\\(ids\\)\\)\")",
+      "Read(//private/tmp/**)",
+      "Bash(xxd)"
+    ]
+  }
+}

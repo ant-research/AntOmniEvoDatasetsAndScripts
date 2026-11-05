@@ -1,0 +1,33 @@
+[project]
+name = "retrieval-test"
+version = "0.1.0"
+description = "Editable-spec retrieval pipeline."
+requires-python = ">=3.10"
+dependencies = [
+    # numpy is used by recall_dense (cosine search over doc embeddings).
+    "numpy>=1.26",
+    # Embedding/rerank call the HTTP endpoints /v1/embeddings and /v1/rerank
+    # via stdlib urllib (no SDK) — see src/retrieval_test/embedding_client.py
+    # and rerank_client.py. Set BAILING_API_KEY / OPENAI_API_KEY in env.
+    # Optional retriever stacks:
+    "rank_bm25>=0.2.2",        # pure-Python BM25, no JVM — used by recall_bm25 node
+    #   "beir",                 # BEIR data loader + dense/bm25 wrappers (pulls sentence-transformers/torch)
+    #   "pyserini",             # Lucene BM25 (needs JDK on the PATH)
+    "tenacity>=8.2",          # retry/backoff for transient HTTP failures (429/5xx/network)
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+retrieval-test-generate = "retrieval_test.generate:main"
+retrieval-test-evaluate = "retrieval_test.evaluate:main"
+retrieval-test-spec-info = "retrieval_test.spec_info:main"
+# agentic-RAG pi agent: the agent calls the retrieval pipeline multiple times;
+# evaluated with Recall@k only. See docs/pi_agent.md.
+retrieval-test-pi-generate = "retrieval_test.pi_generate:main"
+retrieval-test-pi-evaluate = "retrieval_test.pi_evaluate:main"

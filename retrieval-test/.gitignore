@@ -1,0 +1,23 @@
+# venv (项目自有,不进 git)
+.venv/
+
+# build artifacts
+*.egg-info/
+build/
+dist/
+
+# python cache
+__pycache__/
+*.pyc
+
+# run outputs
+output/
+
+# derived caches (embeddings, etc.) — disk-only, regenerated as needed
+cache/
+
+# local API key for the /v1/* endpoints — never committed (the .example is)
+retrieval_test_api_key
+
+# downloaded datasets (大文件,不进 git;真要保留用 git-lfs)
+datasets/nfcorpus/
