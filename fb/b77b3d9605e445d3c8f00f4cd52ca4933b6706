@@ -1,0 +1,262 @@
+.gitignore
+  h_7a890aca0105ef 1-15
+.gitmodules
+  h_7a890aca0105ef 1-3
+LEGAL.md
+  h_7a890aca0105ef 1-7
+README.md
+  h_7a890aca0105ef 1-78
+appworld
+  h_7a890aca0105ef 1
+retrieval-test/.gitignore
+  h_7a890aca0105ef 1-23
+retrieval-test/README.md
+  h_7a890aca0105ef 1-172
+retrieval-test/datasets/README.md
+  h_7a890aca0105ef 1-66
+retrieval-test/datasets/corpus.jsonl
+  h_7a890aca0105ef 1-5
+retrieval-test/datasets/musique/test/corpus.jsonl
+  h_7a890aca0105ef 1-5997
+retrieval-test/datasets/musique/test/queries.jsonl
+  h_7a890aca0105ef 1-300
+retrieval-test/datasets/musique/train/corpus.jsonl
+  h_7a890aca0105ef 1-6000
+retrieval-test/datasets/musique/train/queries.jsonl
+  h_7a890aca0105ef 1-300
+retrieval-test/datasets/musique/val/corpus.jsonl
+  h_7a890aca0105ef 1-2000
+retrieval-test/datasets/musique/val/queries.jsonl
+  h_7a890aca0105ef 1-100
+retrieval-test/datasets/queries.jsonl
+  h_7a890aca0105ef 1-3
+retrieval-test/pipeline_specs/10f675e808b9/nodes/fuse_rrf.py
+  h_7a890aca0105ef 1-60
+retrieval-test/pipeline_specs/10f675e808b9/nodes/graph_expand.py
+  h_7a890aca0105ef 1-199
+retrieval-test/pipeline_specs/10f675e808b9/nodes/graph_rescore.py
+  h_7a890aca0105ef 1-930
+retrieval-test/pipeline_specs/10f675e808b9/nodes/query_rewrite.py
+  h_7a890aca0105ef 1-339
+retrieval-test/pipeline_specs/10f675e808b9/nodes/recall_bm25.py
+  h_7a890aca0105ef 1-233
+retrieval-test/pipeline_specs/10f675e808b9/nodes/recall_dense.py
+  h_7a890aca0105ef 1-224
+retrieval-test/pipeline_specs/10f675e808b9/nodes/rerank_cross.py
+  h_7a890aca0105ef 1-947
+retrieval-test/pipeline_specs/10f675e808b9/nodes/truncate.py
+  h_7a890aca0105ef 1-38
+retrieval-test/pipeline_specs/10f675e808b9/pipeline.json
+  h_7a890aca0105ef 1-82
+retrieval-test/pipeline_specs/10f675e808b9/prompt/rewrite.md
+  h_7a890aca0105ef 1-514
+retrieval-test/pipeline_specs/7414db43f57a/nodes/fuse_rrf.py
+  h_7a890aca0105ef 1-76
+retrieval-test/pipeline_specs/7414db43f57a/nodes/graph_rescore.py
+  h_7a890aca0105ef 1-463
+retrieval-test/pipeline_specs/7414db43f57a/nodes/query_rewrite.py
+  h_7a890aca0105ef 1-146
+retrieval-test/pipeline_specs/7414db43f57a/nodes/recall_bm25.py
+  h_7a890aca0105ef 1-158
+retrieval-test/pipeline_specs/7414db43f57a/nodes/recall_dense.py
+  h_7a890aca0105ef 1-226
+retrieval-test/pipeline_specs/7414db43f57a/nodes/rerank_cross.py
+  h_7a890aca0105ef 1-422
+retrieval-test/pipeline_specs/7414db43f57a/nodes/truncate.py
+  h_7a890aca0105ef 1-38
+retrieval-test/pipeline_specs/7414db43f57a/pipeline.json
+  h_7a890aca0105ef 1-73
+retrieval-test/pipeline_specs/7414db43f57a/prompt/rewrite.md
+  h_7a890aca0105ef 1-627
+retrieval-test/pipeline_specs/default/nodes/fuse_rrf.py
+  h_7a890aca0105ef 1-60
+retrieval-test/pipeline_specs/default/nodes/graph_rescore.py
+  h_7a890aca0105ef 1-424
+retrieval-test/pipeline_specs/default/nodes/query_rewrite.py
+  h_7a890aca0105ef 1-71
+retrieval-test/pipeline_specs/default/nodes/recall_bm25.py
+  h_7a890aca0105ef 1-158
+retrieval-test/pipeline_specs/default/nodes/recall_dense.py
+  h_7a890aca0105ef 1-180
+retrieval-test/pipeline_specs/default/nodes/rerank_cross.py
+  h_7a890aca0105ef 1-139
+retrieval-test/pipeline_specs/default/nodes/truncate.py
+  h_7a890aca0105ef 1-38
+retrieval-test/pipeline_specs/default/pipeline.json
+  h_7a890aca0105ef 1-48
+retrieval-test/pipeline_specs/default/prompt/rewrite.md
+  h_7a890aca0105ef 1-9
+retrieval-test/pyproject.toml
+  h_7a890aca0105ef 1-33
+retrieval-test/src/pi/auth.json
+  h_7a890aca0105ef 1
+retrieval-test/src/pi/models.json
+  h_7a890aca0105ef 1-35
+retrieval-test/src/pi/settings.json
+  h_7a890aca0105ef 1-7
+retrieval-test/src/retrieval_test/__init__.py
+  h_7a890aca0105ef 1-10
+retrieval-test/src/retrieval_test/cache_root.py
+  h_7a890aca0105ef 1-21
+retrieval-test/src/retrieval_test/embedding_cache.py
+  h_7a890aca0105ef 1-121
+retrieval-test/src/retrieval_test/embedding_client.py
+  h_7a890aca0105ef 1-276
+retrieval-test/src/retrieval_test/errors.py
+  h_7a890aca0105ef 1-21
+retrieval-test/src/retrieval_test/evaluate.py
+  h_7a890aca0105ef 1-264
+retrieval-test/src/retrieval_test/generate.py
+  h_7a890aca0105ef 1-556
+retrieval-test/src/retrieval_test/io_utils.py
+  h_7a890aca0105ef 1-40
+retrieval-test/src/retrieval_test/llm_client.py
+  h_7a890aca0105ef 1-222
+retrieval-test/src/retrieval_test/node_deps.py
+  h_7a890aca0105ef 1-186
+retrieval-test/src/retrieval_test/node_io.py
+  h_7a890aca0105ef 1-56
+retrieval-test/src/retrieval_test/pi_evaluate.py
+  h_7a890aca0105ef 1-119
+retrieval-test/src/retrieval_test/pi_generate.py
+  h_7a890aca0105ef 1-294
+retrieval-test/src/retrieval_test/pi_rag_one.py
+  h_7a890aca0105ef 1-85
+retrieval-test/src/retrieval_test/rerank_client.py
+  h_7a890aca0105ef 1-248
+retrieval-test/src/retrieval_test/spec_info.py
+  h_7a890aca0105ef 1-28
+retrieval-test/src/retrieval_test/spec_loader.py
+  h_7a890aca0105ef 1-648
+retrieval-test/src/retrieval_test/trajectory.py
+  h_7a890aca0105ef 1-162
+retrieval-test/tools/prepare_musique.py
+  h_7a890aca0105ef 1-218
+retrieval-test/tools/prepare_nfcorpus.py
+  h_7a890aca0105ef 1-117
+retrieval-test/tools/run_pi.py
+  h_7a890aca0105ef 1-72
+retrieval-test/tools/run_test.py
+  h_7a890aca0105ef 1-67
+terminal-bench/README.md
+  h_7a890aca0105ef 1-33
+terminal-bench/artifacts/1a5bf0805ec0/agent/kira_agent.py
+  h_7a890aca0105ef 1-3763
+terminal-bench/artifacts/1a5bf0805ec0/agent/prompt-templates/terminus-kira.txt
+  h_7a890aca0105ef 1-17
+terminal-bench/artifacts/1a5bf0805ec0/skill/SKILL.md
+  h_7a890aca0105ef 1-210
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/archive-hash-cracking.md
+  h_7a890aca0105ef 1-143
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/asyncio-cancellation.md
+  h_7a890aca0105ef 1-148
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/bayesian-network-causal-guide.md
+  h_7a890aca0105ef 1-162
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/binary-analysis.md
+  h_7a890aca0105ef 1-51
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/binary-reverse-engineering.md
+  h_7a890aca0105ef 1-148
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/c-extension-optimization.md
+  h_7a890aca0105ef 1-126
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/corewars-strategy.md
+  h_7a890aca0105ef 1-130
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/differential-cryptanalysis.md
+  h_7a890aca0105ef 1-261
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/distributed-parallel-patterns.md
+  h_7a890aca0105ef 1-127
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/distribution-optimization.md
+  h_7a890aca0105ef 1-53
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/elf-memory-extraction.md
+  h_7a890aca0105ef 1-26
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/gcode-coordinate-analysis.md
+  h_7a890aca0105ef 1-102
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/git-forensics.md
+  h_7a890aca0105ef 1-50
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/git-server-deployment.md
+  h_7a890aca0105ef 1-153
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/gpt2-bpe-tokenizer.md
+  h_7a890aca0105ef 1-196
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/html-surgical-modification.md
+  h_7a890aca0105ef 1-302
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/logic-gate-circuit-design.md
+  h_7a890aca0105ef 1-183
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/mteb-retrieval-guide.md
+  h_7a890aca0105ef 1-126
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/neural-network-extraction.md
+  h_7a890aca0105ef 1-56
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/polyglot-source-files.md
+  h_7a890aca0105ef 1-107
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/qemu-serial-interaction.md
+  h_7a890aca0105ef 1-238
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/range-coding-encoder.md
+  h_7a890aca0105ef 1-106
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/sql-query-optimization.md
+  h_7a890aca0105ef 1-81
+terminal-bench/artifacts/1a5bf0805ec0/skill/references/vm-emulator-implementation.md
+  h_7a890aca0105ef 1-235
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/analyze-chess-board.py
+  h_7a890aca0105ef 1-226
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/crack-7z-archive.py
+  h_7a890aca0105ef 1-344
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/deprecated-api-search.sh
+  h_7a890aca0105ef 1-109
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-function-sigs.sh
+  h_7a890aca0105ef 1-48
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-pdf-text.py
+  h_7a890aca0105ef 1-205
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-relu-weights.py
+  h_7a890aca0105ef 1-205
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/extract-relu-weights.py.broken-20260723
+  h_7a890aca0105ef 1-233
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/gcode-extract-text.py
+  h_7a890aca0105ef 1-363
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/generate-gates-circuit.py
+  h_7a890aca0105ef 1-259
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/generate-mips-vm.py
+  h_7a890aca0105ef 1-301
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/git-leak-verify.sh
+  h_7a890aca0105ef 1-97
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/gpt2-verify.py
+  h_7a890aca0105ef 1-194
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/html-sanitizer.py
+  h_7a890aca0105ef 1-238
+terminal-bench/artifacts/1a5bf0805ec0/skill/scripts/search-filtered.sh
+  h_7a890aca0105ef 1-73
+terminal-bench/artifacts/kira/agent/kira_agent.py
+  h_7a890aca0105ef 1-1327
+terminal-bench/artifacts/kira/agent/prompt-templates/terminus-kira.txt
+  h_7a890aca0105ef 1-41
+terminal-bench/artifacts/kira/skill/SKILL.md
+  h_7a890aca0105ef 1-4
+terminal-bench/docs/datasets.md
+  h_7a890aca0105ef 1-34
+terminal-bench/patches/harbor-0.20.0-tmux-timeout.patch
+  h_7a890aca0105ef 1-11
+terminal-bench/pyproject.toml
+  h_7a890aca0105ef 1-17
+terminal-bench/src/tbtest/__init__.py
+  h_7a890aca0105ef 1
+terminal-bench/src/tbtest/evaluate.py
+  h_7a890aca0105ef 1-438
+terminal-bench/src/tbtest/generate.py
+  h_7a890aca0105ef 1-607
+terminal-bench/src/tbtest/io_utils.py
+  h_7a890aca0105ef 1-36
+terminal-bench/src/tbtest/trajectory.py
+  h_7a890aca0105ef 1-69
+terminal-bench/src/tbtest/trajectory_parser.py
+  h_7a890aca0105ef 1-299
+terminal-bench/test/job-config-kira.yaml
+  h_7a890aca0105ef 1-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fbb77b3d9605e445d3c8f00f4cd52ca4933b6706",
+  "prompts": {},
+  "humans": {
+    "h_7a890aca0105ef": {
+      "author": "jacklv111 <lv***@163.com>"
+    }
+  }
+}
