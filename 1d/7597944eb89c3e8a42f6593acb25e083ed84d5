@@ -1,0 +1,19 @@
+appworld/UPSTREAM.md
+  s_3c3caa49457c55::t_f8c0de5e51e8b8 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1d7597944eb89c3e8a42f6593acb25e083ed84d5",
+  "prompts": {},
+  "sessions": {
+    "s_3c3caa49457c55": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "9f10b853-3633-43c6-b068-f844a8a90ab4",
+        "model": "glink/Kimi-K3:glink_domestic"
+      },
+      "human_author": "jacklv111 <lv***@163.com>"
+    }
+  }
+}
